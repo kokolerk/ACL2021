@@ -57,7 +57,7 @@
 - 代码链接: --
 #### Refining Sample Embeddings with Relation Prototypes to Enhance Continual Relation Extraction
 - 论文链接: https://aclanthology.org/2021.acl-long.20.pdf
-- 代码链接：https://github.com/fd2014cl/RP-CRE
+- 代码链接: https://github.com/fd2014cl/RP-CRE
 #### Contrastive Learning for Many-to-many Multilingual Neural Machine Translation
 - 论文链接: https://aclanthology.org/2021.acl-long.21.pdf
 - 代码链接：https://github.com/PANXiao1994/mRASP2
