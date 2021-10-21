@@ -3,56 +3,58 @@
 - 代码链接：https://github.com/UKPLab/acl2021-label-suggestions-german-covid19
 
 #### How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements
-#### 
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
+#### Engage the Public: Poll Question Generation for Social Media Posts
+#### HateCheck: Functional Tests for Hate Speech Detection Models
+#### Unified Dual-view Cognitive Model for Interpretable Claim Verification
+#### DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling
+#### PENS: A Dataset and Generic Framework for Personalized News Headline Generation
+#### Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization
+#### Mention Flags (MF): Constraining Transformer-based Text Generators
+#### Generalising Multilingual Concept-to-Text NLG with Language Agnostic Delexicalisation
+#### Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances
+#### Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking
+#### Transferable Dialogue Systems and User Simulators
+#### BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data
+#### GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling
+#### Accelerating BERT Inference for Sequence Labeling via Early-Exit
+#### Modularized Interaction Network for Named Entity Recognition
+#### Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder
+#### UniRE: A Unified Label Space for Entity Relation Extraction
+#### Refining Sample Embeddings with Relation Prototypes to Enhance Continual Relation Extraction
+#### Contrastive Learning for Many-to-many Multilingual Neural Machine Translation
+#### Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation
+#### Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation
+#### A Bidirectional Transformer Based Alignment Model for Unsupervised Word Alignment
+#### Learning Language Specific Sub-network for Multilingual Machine Translation
+#### Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis
+#### Bridge-Based Active Domain Adaptation for Aspect Term Extraction
+#### Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks
+#### Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions
+#### PASS: Perturb-and-Select Summarizer for Product Reviews
+#### Deep Differential Amplifier for Extractive Summarization
+#### Multi-TimeLine Summarization (MTLS): Improving Timeline Summarization by Generating Multiple Summaries
+#### Self-Supervised Multimodal Opinion Summarization
+#### A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy
+#### DESCGEN: A Distantly Supervised Datasetfor Generating Entity Descriptions
+#### Introducing Orthogonal Constraint in Structural Probes
+#### Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger
+#### Examining the Inductive Bias of Neural Language Models with Artificial Languages
+#### Explaining Contextualization in Language Models using Visual Analytics
+#### Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification
+#### Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem
+#### E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning
+#### Learning Relation Alignment for Calibrated Cross-modal Retrieval
+#### KM-BART: Knowledge Enhanced Multimodal BART for Visual Commonsense Generation
+#### Cascaded Head-colliding Attention
+#### Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor
+#### Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks
+#### COSY: COunterfactual SYntax for Cross-Lingual Understanding
+#### OoMMix: Out-of-manifold Regularization in Contextual Embedding Space for Text Classification
+#### Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model
+#### Structurizing Misinformation Stories via Rationalizing Fact-Checks
+#### Modeling Language Usage and Listener Engagement in Podcasts
+#### Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions
+#### SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues
 ####
 ####
 ####
