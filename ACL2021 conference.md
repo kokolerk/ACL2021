@@ -3,59 +3,59 @@
 - 代码链接：https://github.com/UKPLab/acl2021-label-suggestions-german-covid19
 
 #### How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements
-- 论文链接:https://aclanthology.org/2021.acl-long.2.pdf
-- 代码链接:--
+- 论文链接: https://aclanthology.org/2021.acl-long.2.pdf
+- 代码链接: --
 #### Engage the Public: Poll Question Generation for Social Media Posts
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.3.pdf
+- 代码链接: https://github.com/polyusmart/Poll-Question-Generation
 #### HateCheck: Functional Tests for Hate Speech Detection Models
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.4.pdf
+- 代码链接: https://github.com/paul-rottger/hatecheck-data (数据集)
 #### Unified Dual-view Cognitive Model for Interpretable Claim Verification
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.5.pdf
+- 代码链接: --
 #### DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.6.pdf
+- 代码链接: --
 #### PENS: A Dataset and Generic Framework for Personalized News Headline Generation
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.7.pdf
+- 代码链接: -- 
 #### Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.8.pdf
+- 代码链接：--
 #### Mention Flags (MF): Constraining Transformer-based Text Generators
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.9.pdf
+- 代码链接：https://github.com/GaryYufei/ACL2021MF
 #### Generalising Multilingual Concept-to-Text NLG with Language Agnostic Delexicalisation
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.10.pdf
+- 代码链接：--
 #### Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.11.pdf
+- 代码链接：--
 #### Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.12.pdf
+- 代码链接：--
 #### Transferable Dialogue Systems and User Simulators
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.13.pdf
+- 代码链接：https://github.com/andy194673/joust
 #### BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data
-- 论文链接
+- 论文链接: https://aclanthology.org/2021.acl-long.14.pdf
 - 代码链接
 #### GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling
-- 论文链接
+- 论文链接: https://aclanthology.org/2021.acl-long.15.pdf
 - 代码链接
 #### Accelerating BERT Inference for Sequence Labeling via Early-Exit
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.16.pdf
+- 代码链接: 
 #### Modularized Interaction Network for Named Entity Recognition
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.17.pdf
+- 代码链接: 
 #### Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.18.pdf
+- 代码链接: 
 #### UniRE: A Unified Label Space for Entity Relation Extraction
-- 论文链接
-- 代码链接
+- 论文链接: https://aclanthology.org/2021.acl-long.19.pdf
+- 代码链接: 
 #### Refining Sample Embeddings with Relation Prototypes to Enhance Continual Relation Extraction
 - 论文链接
 - 代码链接
