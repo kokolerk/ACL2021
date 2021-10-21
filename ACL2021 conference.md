@@ -60,7 +60,7 @@
 - 代码链接: https://github.com/fd2014cl/RP-CRE
 #### Contrastive Learning for Many-to-many Multilingual Neural Machine Translation
 - 论文链接: https://aclanthology.org/2021.acl-long.21.pdf
-- 代码链接：https://github.com/PANXiao1994/mRASP2
+- 代码链接: https://github.com/PANXiao1994/mRASP2
 #### Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation
 - 论文链接: https://aclanthology.org/2021.acl-long.22.pdf
 - 代码链接：--
