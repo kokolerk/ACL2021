@@ -24,7 +24,7 @@
 - 代码链接：--
 #### Mention Flags (MF): Constraining Transformer-based Text Generators
 - 论文链接: https://aclanthology.org/2021.acl-long.9.pdf
-- 代码链接：https://github.com/GaryYufei/ACL2021MF
+- 代码链接: https://github.com/GaryYufei/ACL2021MF
 #### Generalising Multilingual Concept-to-Text NLG with Language Agnostic Delexicalisation
 - 论文链接: https://aclanthology.org/2021.acl-long.10.pdf
 - 代码链接：--
@@ -36,7 +36,7 @@
 - 代码链接：--
 #### Transferable Dialogue Systems and User Simulators
 - 论文链接: https://aclanthology.org/2021.acl-long.13.pdf
-- 代码链接：https://github.com/andy194673/joust
+- 代码链接: https://github.com/andy194673/joust
 #### BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data
 - 论文链接: https://aclanthology.org/2021.acl-long.14.pdf
 - 代码链接：--
