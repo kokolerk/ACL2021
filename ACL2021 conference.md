@@ -160,12 +160,96 @@
 #### SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues
 - 论文链接：https://aclanthology.org/2021.acl-long.54.pdf
 - 代码链接：--
-####
-- 论文链接
-- 代码链接
-####
-- 论文链接
-- 代码链接
+#### TicketTalk: Toward human-level performance with end-to-end, transaction-based dialog systems
+- 论文链接：https://aclanthology.org/2021.acl-long.55.pdf
+- 代码链接：--
+#### Improving Dialog Systems for Negotiation with Personality Modeling
+- 论文链接：https://aclanthology.org/2021.acl-long.56.pdf
+- 代码链接：https://github.com/princeton-nlp/NegotiationToM
+#### Learning from Perturbations: Diverse and Informative Dialogue Generation with Inverse Adversarial Training
+- 论文链接：https://aclanthology.org/2021.acl-long.57.pdf
+- 代码链接：--
+#### Increasing Faithfulness in Knowledge-Grounded Dialogue with Controllable Features
+- 论文链接：https://aclanthology.org/2021.acl-long.58.pdf
+- 代码链接：--
+#### CitationIE: Leveraging the Citation Graph for Scientific Information Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.59.pdf
+- 代码链接：https://github.com/viswavi/CitationIE
+#### From Discourse to Narrative: Knowledge Projection for Event Relation Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.60.pdf
+- 代码链接：https://github.com/TangJiaLong/ Knowledge- Projection- for- ERE
+#### AdvPicker: Effectively Leveraging Unlabeled Data via Adversarial Discriminator for Cross-Lingual NER
+- 论文链接：https://aclanthology.org/2021.acl-long.61.pdf
+- 代码链接：--
+#### Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge
+- 论文链接：https://aclanthology.org/2021.acl-long.62.pdf
+- 代码链接：https://github.com/ytc272098215/FakeNewsDetection
+#### Discontinuous Named Entity Recognition as Maximal Clique Discovery
+- 论文链接：https://aclanthology.org/2021.acl-long.63.pdf
+- 代码链接：https://github.com/131250208/InfExtraction
+#### LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking
+- 论文链接：https://aclanthology.org/2021.acl-long.64.pdf
+- 代码链接：--
+#### Do Context-Aware Translation Models Pay the Right Attention?
+- 论文链接：https://aclanthology.org/2021.acl-long.65.pdf
+- 代码链接：https://github.com/neulab/contextual-mt
+#### Adapting High-resource NMT Models to Translate Low-resource Related Languages without Parallel Data
+- 论文链接：https://aclanthology.org/2021.acl-long.66.pdf
+- 代码链接：https://github.com/wjko2/NMT- Adapt
+#### Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment
+- 论文链接：https://aclanthology.org/2021.acl-long.67.pdf
+- 代码链接： https://github.com/facebookresearch/bitext- lexind
+#### Multilingual Speech Translation from Efficient Finetuning of Pretrained Models
+- 论文链接：https://aclanthology.org/2021.acl-long.68.pdf
+- 代码链接：--
+#### Learning Faithful Representations of Causal Graphs
+- 论文链接：https://aclanthology.org/2021.acl-long.69.pdf
+- 代码链接：--
+#### What Context Features Can Transformer Language Models Use?
+- 论文链接：https://aclanthology.org/2021.acl-long.70.pdf
+- 代码链接：https://github.com/lingo-mit/context-ablations
+#### Integrated Directional Gradients: Feature Interaction Attribution for Neural NLP Models
+- 论文链接：https://aclanthology.org/2021.acl-long.71.pdf
+- 代码链接：https://github.com/parantapa/ integrated-directional-gradients
+#### DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations
+- 论文链接：https://aclanthology.org/2021.acl-long.72.pdf
+- 代码链接：https://github.com/JohnGiorgi/DeCLUTR
+#### XLPT-AMR: Cross-Lingual Pre-Training via Multi-Task Learning for Zero-Shot AMR Parsing and Text Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.73.pdf
+- 代码链接：https://github.com/xdqkid/XLPT-AMR
+#### Span-based Semantic Parsing for Compositional Generalization
+- 论文链接：https://aclanthology.org/2021.acl-long.74.pdf
+- 代码链接：https:// github.com/jonathanherzig/span- based- sp
+#### Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?
+- 论文链接：https://aclanthology.org/2021.acl-long.75.pdf
+- 代码链接：https://github.com/google-research/ language/tree/master/language/nqg
+#### A Targeted Assessment of Incremental Processing in Neural Language Models and Humans
+- 论文链接：https://aclanthology.org/2021.acl-long.76.pdf
+- 代码链接：https://github.com/wilcoxeg/ targeted-assessment-imaze
+#### The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing
+- 论文链接：https://aclanthology.org/2021.acl-long.77.pdf
+- 代码链接：https://github.com/OnlpLab/Modality
+#### To POS Tag or Not to POS Tag: The Impact of POS Tags on Morphological Learning in Low-Resource Settings
+- 论文链接：https://aclanthology.org/2021.acl-long.78.pdf
+- 代码链接：--
+#### Prosodic segmentation for parsing spoken dialogue
+- 论文链接：https://aclanthology.org/2021.acl-long.79.pdf
+- 代码链接：https://github.com/ekayen/prosody nlp
+#### VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation
+- 论文链接：https://aclanthology.org/2021.acl-long.80.pdf
+- 代码链接：https://github. com/facebookresearch/voxpopuli
+#### Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets 
+- 论文链接：https://aclanthology.org/2021.acl-long.81.pdf
+- 代码链接：--
+#### Robust Knowledge Graph Completion with Stacked Convolutions and a Student Re-Ranking Network
+- 论文链接：https://aclanthology.org/2021.acl-long.82.pdf
+- 代码链接：https://github.com/justinlovelace/robust-kg-completion
+#### A DQN-based Approach to Finding Precise Evidences for Fact Verification
+- 论文链接：https://aclanthology.org/2021.acl-long.83.pdf
+- 代码链接：https://github.com/sysulic/DQN-FV
+#### The Art of Abstention: Selective Prediction and Error Regularization for Natural Language Processing
+- 论文链接：https://aclanthology.org/2021.acl-long.84.pdf
+- 代码链接：https://github.com/ castorini/transformers- selective
 ####
 - 论文链接
 - 代码链接
