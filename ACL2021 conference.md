@@ -177,7 +177,7 @@
 - 代码链接：https://github.com/viswavi/CitationIE
 #### From Discourse to Narrative: Knowledge Projection for Event Relation Extraction
 - 论文链接：https://aclanthology.org/2021.acl-long.60.pdf
-- 代码链接：https://github.com/TangJiaLong/ Knowledge- Projection- for- ERE
+- 代码链接：https://github.com/TangJiaLong/Knowledge-Projection-for-ERE
 #### AdvPicker: Effectively Leveraging Unlabeled Data via Adversarial Discriminator for Cross-Lingual NER
 - 论文链接：https://aclanthology.org/2021.acl-long.61.pdf
 - 代码链接：--
@@ -195,10 +195,10 @@
 - 代码链接：https://github.com/neulab/contextual-mt
 #### Adapting High-resource NMT Models to Translate Low-resource Related Languages without Parallel Data
 - 论文链接：https://aclanthology.org/2021.acl-long.66.pdf
-- 代码链接：https://github.com/wjko2/NMT- Adapt
+- 代码链接：https://github.com/wjko2/NMT-Adapt
 #### Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment
 - 论文链接：https://aclanthology.org/2021.acl-long.67.pdf
-- 代码链接： https://github.com/facebookresearch/bitext- lexind
+- 代码链接： https://github.com/facebookresearch/bitext-lexind
 #### Multilingual Speech Translation from Efficient Finetuning of Pretrained Models
 - 论文链接：https://aclanthology.org/2021.acl-long.68.pdf
 - 代码链接：--
@@ -210,7 +210,7 @@
 - 代码链接：https://github.com/lingo-mit/context-ablations
 #### Integrated Directional Gradients: Feature Interaction Attribution for Neural NLP Models
 - 论文链接：https://aclanthology.org/2021.acl-long.71.pdf
-- 代码链接：https://github.com/parantapa/ integrated-directional-gradients
+- 代码链接：https://github.com/parantapa/integrated-directional-gradients
 #### DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations
 - 论文链接：https://aclanthology.org/2021.acl-long.72.pdf
 - 代码链接：https://github.com/JohnGiorgi/DeCLUTR
@@ -219,13 +219,13 @@
 - 代码链接：https://github.com/xdqkid/XLPT-AMR
 #### Span-based Semantic Parsing for Compositional Generalization
 - 论文链接：https://aclanthology.org/2021.acl-long.74.pdf
-- 代码链接：https:// github.com/jonathanherzig/span- based- sp
+- 代码链接：https:// github.com/jonathanherzig/span-based-sp
 #### Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?
 - 论文链接：https://aclanthology.org/2021.acl-long.75.pdf
-- 代码链接：https://github.com/google-research/ language/tree/master/language/nqg
+- 代码链接：https://github.com/google-research/language/tree/master/language/nqg
 #### A Targeted Assessment of Incremental Processing in Neural Language Models and Humans
 - 论文链接：https://aclanthology.org/2021.acl-long.76.pdf
-- 代码链接：https://github.com/wilcoxeg/ targeted-assessment-imaze
+- 代码链接：https://github.com/wilcoxeg/targeted-assessment-imaze
 #### The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing
 - 论文链接：https://aclanthology.org/2021.acl-long.77.pdf
 - 代码链接：https://github.com/OnlpLab/Modality
@@ -234,10 +234,10 @@
 - 代码链接：--
 #### Prosodic segmentation for parsing spoken dialogue
 - 论文链接：https://aclanthology.org/2021.acl-long.79.pdf
-- 代码链接：https://github.com/ekayen/prosody nlp
+- 代码链接：https://github.com/ekayen/prosodynlp
 #### VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation
 - 论文链接：https://aclanthology.org/2021.acl-long.80.pdf
-- 代码链接：https://github. com/facebookresearch/voxpopuli
+- 代码链接：https://github.com/facebookresearch/voxpopuli
 #### Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets 
 - 论文链接：https://aclanthology.org/2021.acl-long.81.pdf
 - 代码链接：--
@@ -249,7 +249,85 @@
 - 代码链接：https://github.com/sysulic/DQN-FV
 #### The Art of Abstention: Selective Prediction and Error Regularization for Natural Language Processing
 - 论文链接：https://aclanthology.org/2021.acl-long.84.pdf
-- 代码链接：https://github.com/ castorini/transformers- selective
+- 代码链接：https://github.com/castorini/transformers-selective
+#### Unsupervised Out-of-Domain Detection via Pre-trained Transformers
+- 论文链接：https://aclanthology.org/2021.acl-long.85.pdf
+- 代码链接：https://github.com/rivercold/BERT-unsupervised-OOD.
+#### MATE-KD: Masked Adversarial TExt, a Companion to Knowledge Distillation
+- 论文链接：https://aclanthology.org/2021.acl-long.86.pdf
+- 代码链接：--
+#### Selecting Informative Contexts Improves Language Model Fine-tuning
+- 论文链接：https://aclanthology.org/2021.acl-long.87.pdf
+- 代码链接：https://github.com/HuthLab/IGF
+#### Explainable Prediction of Text Complexity: The Missing Preliminaries for Text Simplification
+- 论文链接：https://aclanthology.org/2021.acl-long.88.pdf
+- 代码链接：--
+#### Multi-Task Retrieval for Knowledge-Intensive Tasks
+- 论文链接：https://aclanthology.org/2021.acl-long.89.pdf
+- 代码链接：--
+#### When Do You Need Billions of Words of Pretraining Data?
+- 论文链接：https://aclanthology.org/2021.acl-long.90.pdf
+- 代码链接：https://github.com/nyu-mll/pretraining-learning-curves
+#### Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.91.pdf
+- 代码链接：https://github.com/lena-voita/the-story-of-heads
+#### Comparing Test Sets with Item Response Theory
+- 论文链接：https://aclanthology.org/2021.acl-long.92.pdf
+- 代码链接：https://github. com/nyu- mll/nlu- test- sets.
+#### Uncovering Constraint-Based Behavior in Neural Models via Targeted Fine-Tuning
+- 论文链接：https://aclanthology.org/2021.acl-long.93.pdf
+- 代码链接：https://github.com/forrestdavis/ImplicitCausality
+#### More Identifiable yet Equally Performant Transformers for Text Classification
+- 论文链接：https://aclanthology.org/2021.acl-long.94.pdf
+- 代码链接：https://github.com/declare-lab/identifiable-transformers
+#### AUGNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation
+- 论文链接：https://aclanthology.org/2021.acl-long.95.pdf
+- 代码链接：https://github.com/XinnuoXu/AugNLG.
+#### Can vectors read minds better than experts?Comparing data augmentation strategies for the automated scoring of children’s mindreading ability
+- 论文链接：https://aclanthology.org/2021.acl-long.96.pdf
+- 代码链接：https://github.com/venelink/augment-acl21/
+#### A Dataset and Baselines for Multilingual Reply Suggestion
+- 论文链接：https://aclanthology.org/2021.acl-long.97.pdf
+- 代码链接：https://github.com/zhangmozhi/mrs
+#### What Ingredients Make for an Effective Crowdsourcing Protocol for Difficult NLU Data Collection Tasks?
+- 论文链接：https://aclanthology.org/2021.acl-long.98.pdf
+- 代码链接：https://github.com/nyu-mll/crowdsourcing-protocol-comparison
+#### Align Voting Behavior with Public Statements for Legislator Representation Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.99.pdf
+- 代码链接：https://github.com/xymou/Align-Voting-Behavior-with-Public-Statements.
+#### Measure and Evaluation of Semantic Divergence across Two Languages
+- 论文链接：https://aclanthology.org/2021.acl-long.100.pdf
+- 代码链接：https://github.com/smontariol/BilingualSemanticChange
+#### Improving Zero-Shot Translation by Disentangling Positional Information
+- 论文链接：https://aclanthology.org/2021.acl-long.101.pdf
+- 代码链接： https://github.com/nlp-dke/NMTGMinor/tree/master/recipes/zero-shot
+#### Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning
+- 论文链接：https://aclanthology.org/2021.acl-long.102.pdf
+- 代码链接：https://inklab.usc.edu/XCSR/
+#### Attention Calibration for Transformer in Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.103.pdf
+- 代码链接：--
+#### Diverse Pretrained Context Encodings Improve Document Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.104.pdf
+- 代码链接：--
+#### Exploiting Language Relatedness for Low Web-Resource Language Model Adaptation: An Indic Languages Study
+- 论文链接：https://aclanthology.org/2021.acl-long.105.pdf
+- 代码链接：https://github.com/yashkhem1/RelateLM
+#### On Finding the K-best Non-projective Dependency Trees
+- 论文链接：https://aclanthology.org/2021.acl-long.106.pdf
+- 代码链接：https://github.com/rycolab/spanningtrees
+#### Towards Argument Mining for Social Good: A Survey
+- 论文链接：https://aclanthology.org/2021.acl-long.107.pdf
+- 代码链接：--
+#### Automated Generation of Storytelling Vocabulary from Photographs for Use in AAC
+- 论文链接：https://aclanthology.org/2021.acl-long.108.pdf
+- 代码链接：--
+#### CLIP: A Dataset for Extracting Action Items for Physicians from Hospital Discharge Notes
+- 论文链接：https://aclanthology.org/2021.acl-long.109.pdf
+- 代码链接：https://github.com/asappresearch/clip
+#### Assessing Emoji Use in Modern Text Processing Tools
+- 论文链接：https://aclanthology.org/2021.acl-long.110.pdf
+- 代码链接：https://github.com/abushoeb/emotag
 ####
 - 论文链接
 - 代码链接
