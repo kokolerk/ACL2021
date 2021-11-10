@@ -328,6 +328,63 @@
 #### Assessing Emoji Use in Modern Text Processing Tools
 - 论文链接：https://aclanthology.org/2021.acl-long.110.pdf
 - 代码链接：https://github.com/abushoeb/emotag
+#### Select, Extract and Generate: Neural Keyphrase Generation with Layer-wise Coverage Attention
+- 论文链接：https://aclanthology.org/2021.acl-long.111.pdf
+- 代码链接：--
+#### Factorising Meaning and Form for Intent-Preserving Paraphrasing
+- 论文链接：https://aclanthology.org/2021.acl-long.112.pdf
+- 代码链接：--
+#### AGGGEN: Ordering and Aggregating while Generating
+- 论文链接：https://aclanthology.org/2021.acl-long.113.pdf
+- 代码链接：https://github.com/XinnuoXu/AggGen
+#### Reflective Decoding: Beyond Unidirectional Generation with Off-the-Shelf Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.114.pdf
+- 代码链接：https://homes.cs.washington.edu/~pawest/ReflectiveDecoding.html
+#### Towards Table-to-Text Generation with Numerical Reasoning
+- 论文链接：https://aclanthology.org/2021.acl-long.115.pdf
+- 代码链接：https://github.com/titech-nlp/numeric-nlg
+#### BACO: A Background Knowledge- and Content-Based Framework for Citing Sentence Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.116.pdf
+- 代码链接：--
+#### Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization
+- 论文链接：https://aclanthology.org/2021.acl-long.117.pdf
+- 代码链接： https://github.com/xcfcode/PLM_annotator
+#### Challenges in Information-Seeking QA: Unanswerable Questions and Paragraph Retrieval
+- 论文链接：https://aclanthology.org/2021.acl-long.118.pdf
+- 代码链接：https://github.com/AkariAsai/ unanswerable_qa
+#### A Gradually Soft Multi-Task and Data-Augmented Approach to Medical Question Understanding
+- 论文链接：https://aclanthology.org/2021.acl-long.119.pdf
+- 代码链接：https://github.com/KhalilMrini/ Medical-Question-Understanding
+#### Leveraging Type Descriptions for Zero-shot Named Entity Recognition and Classification
+- 论文链接：https://aclanthology.org/2021.acl-long.120.pdf
+- 代码链接： https://github.com/ShannonAI/mrc-for-flat-nested-ner
+#### MECT: Multi-Metadata Embedding based Cross-Transformer for Chinese Named Entity Recognition
+- 论文链接：https://aclanthology.org/2021.acl-long.121.pdf
+- 代码链接：https://github.com/CoderMusou/MECT4CNER
+#### Factuality Assessment as Modal Dependency Parsing
+- 论文链接：https://aclanthology.org/2021.acl-long.122.pdf
+- 代码链接：https://github.com/Jryao/modal_dependency
+#### Directed Acyclic Graph Network for Conversational Emotion Recognition
+- 论文链接：https://aclanthology.org/2021.acl-long.123.pdf
+- 代码链接：https://github.com/shenwzh3/DAG- ERC
+#### Improving Formality Style Transfer with Context-Aware Rule Injection
+- 论文链接：https://aclanthology.org/2021.acl-long.124.pdf
+- 代码链接：https://github.com/raosudha89/GYAFC-corpus
+#### Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection
+- 论文链接：https://aclanthology.org/2021.acl-long.125.pdf
+- 代码链接：--
+#### Syntopical Graphs for Computational Argumentation Tasks
+- 论文链接：https://aclanthology.org/2021.acl-long.126.pdf
+- 代码链接：--
+#### Stance Detection in COVID-19 Tweets
+- 论文链接：https://aclanthology.org/2021.acl-long.127.pdf
+- 代码链接：https://github.com/kglandt/stance-detection-in-covid-19-tweets
+#### Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification
+- 论文链接：https://aclanthology.org/2021.acl-long.128.pdf
+- 代码链接：https://github.com/jasenchn/TARSA
+#### Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset
+- 论文链接：https://aclanthology.org/2021.acl-long.129.pdf
+- 代码链接：https://github.com/lalashiwoya/socialsolidarityCOVID19
 ####
 - 论文链接
 - 代码链接
