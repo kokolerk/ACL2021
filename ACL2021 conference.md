@@ -351,10 +351,10 @@
 - 代码链接： https://github.com/xcfcode/PLM_annotator
 #### Challenges in Information-Seeking QA: Unanswerable Questions and Paragraph Retrieval
 - 论文链接：https://aclanthology.org/2021.acl-long.118.pdf
-- 代码链接：https://github.com/AkariAsai/ unanswerable_qa
+- 代码链接：https://github.com/AkariAsai/unanswerable_qa
 #### A Gradually Soft Multi-Task and Data-Augmented Approach to Medical Question Understanding
 - 论文链接：https://aclanthology.org/2021.acl-long.119.pdf
-- 代码链接：https://github.com/KhalilMrini/ Medical-Question-Understanding
+- 代码链接：https://github.com/KhalilMrini/Medical-Question-Understanding
 #### Leveraging Type Descriptions for Zero-shot Named Entity Recognition and Classification
 - 论文链接：https://aclanthology.org/2021.acl-long.120.pdf
 - 代码链接： https://github.com/ShannonAI/mrc-for-flat-nested-ner
@@ -366,7 +366,7 @@
 - 代码链接：https://github.com/Jryao/modal_dependency
 #### Directed Acyclic Graph Network for Conversational Emotion Recognition
 - 论文链接：https://aclanthology.org/2021.acl-long.123.pdf
-- 代码链接：https://github.com/shenwzh3/DAG- ERC
+- 代码链接：https://github.com/shenwzh3/DAG-ERC
 #### Improving Formality Style Transfer with Context-Aware Rule Injection
 - 论文链接：https://aclanthology.org/2021.acl-long.124.pdf
 - 代码链接：https://github.com/raosudha89/GYAFC-corpus
@@ -385,6 +385,96 @@
 #### Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset
 - 论文链接：https://aclanthology.org/2021.acl-long.129.pdf
 - 代码链接：https://github.com/lalashiwoya/socialsolidarityCOVID19
+#### Measuring Conversational Uptake:A Case Study on Student-Teacher Interactions
+- 论文链接：https://aclanthology.org/2021.acl-long.130.pdf
+- 代码链接：https://github.com/ ddemszky/conversational- uptake
+#### A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies
+- 论文链接：https://aclanthology.org/2021.acl-long.131.pdf
+- 代码链接：--
+#### Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection
+- 论文链接：https://aclanthology.org/2021.acl-long.132.pdf
+- 代码链接：https://github.com/bvidgen/ Dynamically-Generated-Hate-Speech-Dataset
+#### InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection
+- 论文链接：https://aclanthology.org/2021.acl-long.133.pdf
+- 代码链接：https://github. com/yrf1/InfoSurgeon for research purposes.
+#### I like fish   , especially dolphins   :∗ Addressing Contradictions in Dialogue Modeling
+- 论文链接：https://aclanthology.org/2021.acl-long.134.pdf
+- 代码链接：https://parl.ai/projects/contradiction
+#### A Sequence-to-Sequence Approach to Dialogue State Tracking
+- 论文链接：https://aclanthology.org/2021.acl-long.135.pdf
+- 代码链接：https://github.com/sweetalyssum/Seq2Seq-DU
+#### Discovering Dialog Structure Graph for Coherent Dialog Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.136.pdf
+- 代码链接：--
+#### Dialogue Response Selection with Hierarchical Curriculum Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.137.pdf
+- 代码链接：--
+#### A Joint Model for Dropped Pronoun Recovery and Conversational Discourse Parsing in Chinese Conversational Speech
+- 论文链接：https://aclanthology.org/2021.acl-long.138.pdf
+- 代码链接：https:// github.com/ningningyang/DiscProReco
+#### A Systematic Investigation of KB-Text Embedding Alignment at Scale
+- 论文链接：https://aclanthology.org/2021.acl-long.139.pdf
+- 代码链接：https://github.com/dki-lab/joint-kb-text-embedding
+#### Named Entity Recognition with Small Strongly Labeled and Large Weakly Labeled Data
+- 论文链接：https://aclanthology.org/2021.acl-long.140.pdf
+- 代码链接：--
+#### Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model
+- 论文链接：https://aclanthology.org/2021.acl-long.141.pdf
+- 代码链接：https://github.com/HKUST-KnowComp/MLMET
+#### Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.142.pdf
+- 代码链接：https://github. com/Alibaba-NLP/CLNER
+#### Implicit Representations of Meaning in Neural Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.143.pdf
+- 代码链接：https://github.com/belindal/state-probes
+#### Causal Analysis of Syntactic Agreement Mechanisms in Neural Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.144.pdf
+- 代码链接：https://github.com/mattf1n/lm-intervention
+#### Bird’s Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach
+- 论文链接：https://aclanthology.org/2021.acl-long.145.pdf
+- 代码链接：https://github.com/yifan-h/Graph_Probe-Birds_Eye
+#### Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases
+- 论文链接：https://aclanthology.org/2021.acl-long.146.pdf
+- 代码链接：https://github.com/c-box/LANKA
+#### Poisoning Knowledge Graph Embeddings via Relation Inference Patterns
+- 论文链接：https://aclanthology.org/2021.acl-long.147.pdf
+- 代码链接：https://github.com/PeruBhardwaj/ InferenceAttack
+#### Bad Seeds: Evaluating Lexical Methods for Bias Measurement
+- 论文链接：https://aclanthology.org/2021.acl-long.148.pdf
+- 代码链接：https://gi thub.com/maria-antoniak/bad-seeds
+#### A Survey of Race, Racism, and Anti-Racism in NLP
+- 论文链接：https://aclanthology.org/2021.acl-long.149.pdf
+- 代码链接：--
+#### Intrinsic Bias Metrics Do Not Correlate with Application Bias
+- 论文链接：https://aclanthology.org/2021.acl-long.150.pdf
+- 代码链接：--
+#### REDDITBIAS: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.151.pdf
+- 代码链接：https://github.com/umanlp/RedditBias
+#### Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks
+- 论文链接：https://aclanthology.org/2021.acl-long.152.pdf
+- 代码链接：--
+#### Crafting Adversarial Examples for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.153.pdf
+- 代码链接：https://github.com/JHL-HUST/AdvNMT-WSLS/
+#### UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual NLP
+- 论文链接：https://aclanthology.org/2021.acl-long.154.pdf
+- 代码链接：https://ntunlpsg.github.io/project/uxla/
+#### Glancing Transformer for Non-Autoregressive Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.155.pdf
+- 代码链接：--
+#### Hierarchical Context-aware Network for Dense Video Event Captioning
+- 论文链接：https://aclanthology.org/2021.acl-long.156.pdf
+- 代码链接：https://github.com/ KirkGuo/HCN
+#### Control Image Captioning Spatially and Temporally
+- 论文链接：https://aclanthology.org/2021.acl-long.157.pdf
+- 代码链接：https://github.com/tylin/coco-caption
+#### Edited Media Understanding Frames: Reasoning About the Intents and Implications of Visual Disinformation
+- 论文链接：https://aclanthology.org/2021.acl-long.158.pdf
+- 代码链接：--
+#### Language Grounding Through Neuro-Symbolic Interaction in a 3D World
+- 论文链接：https://aclanthology.org/2021.acl-long.159.pdf
+- 代码链接：--
 ####
 - 论文链接
 - 代码链接
