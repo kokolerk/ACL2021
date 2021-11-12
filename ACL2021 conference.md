@@ -475,6 +475,96 @@
 #### Language Grounding Through Neuro-Symbolic Interaction in a 3D World
 - 论文链接：https://aclanthology.org/2021.acl-long.159.pdf
 - 代码链接：--
+#### Modeling Fine-Grained Entity Types with Box Embeddings
+- 论文链接：https://aclanthology.org/2021.acl-long.160.pdf
+- 代码链接：https://github.com/yasumasaonoe/Box4Types
+#### ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information
+- 论文链接：https://aclanthology.org/2021.acl-long.161.pdf
+- 代码链接：https://github.com/ShannonAI/ChineseBert
+#### Weight Distillation: Transferring the Knowledge in Neural Network Parameters
+- 论文链接：https://aclanthology.org/2021.acl-long.162.pdf
+- 代码链接：--
+#### Optimizing Deeper Transformers on Small Datasets
+- 论文链接：https://aclanthology.org/2021.acl-long.163.pdf
+- 代码链接：https://github.com/BorealisAI/DT-Fixup
+#### BERTAC: Enhancing Transformer-based Language Models with Adversarially Pretrained Convolutional Neural Networks
+- 论文链接：https://aclanthology.org/2021.acl-long.164.pdf
+- 代码链接：https://github.com/nict-wisdom/berta
+#### COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic
+- 论文链接：https://aclanthology.org/2021.acl-long.165.pdf
+- 代码链接：https://github.com/asaakyan/covidfact
+#### Explaining Relationships Between Scientific Documents
+- 论文链接：https://aclanthology.org/2021.acl-long.166.pdf
+- 代码链接：https://github.com/Kel- Lu/SciGen
+#### IrEne: Interpretable Energy Prediction for Transformers
+- 论文链接：https://aclanthology.org/2021.acl-long.167.pdf
+- 代码链接：https://github.com/StonyBrookNLP/irene
+#### Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach
+- 论文链接：https://aclanthology.org/2021.acl-long.168.pdf
+- 代码链接：https://github.com/GitHubLuCheng/MitigateBiasSessionCB
+#### PLOTCODER: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context
+- 论文链接：https://aclanthology.org/2021.acl-long.169.pdf
+- 代码链接：https://github.com/jungyhuk/plotcoder
+#### Changing the World by Changing the Data
+- 论文链接：https://aclanthology.org/2021.acl-long.170.pdf
+- 代码链接：--
+#### EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets
+- 论文链接：https://aclanthology.org/2021.acl-long.171.pdf
+- 代码链接：https://github.com/VITA-Group/EarlyBERT
+#### On the Effectiveness of Adapter-based Tuning for Pretrained Language Model Adaptation
+- 论文链接：https://aclanthology.org/2021.acl-long.172.pdf
+- 代码链接：--
+#### Data Augmentation for Text Generation Without Any Augmented Data
+- 论文链接：https://aclanthology.org/2021.acl-long.173.pdf
+- 代码链接：--
+#### Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval
+- 论文链接：https://aclanthology.org/2021.acl-long.174.pdf
+- 代码链接：https://github.com/J-zin/SNUH
+#### SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis
+- 论文链接：https://aclanthology.org/2021.acl-long.175.pdf
+- 代码链接：https://github.com/JoshuaFeinglass/SMURF
+#### KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers
+- 论文链接：https://aclanthology.org/2021.acl-long.176.pdf
+- 代码链接：--
+#### QASR: QCRI Aljazeera Speech Resource A Large Scale Annotated Arabic Speech Corpus
+- 论文链接：https://aclanthology.org/2021.acl-long.177.pdf
+- 代码链接：--
+#### An Empirical Study on Hyperparameter Optimization for Fine-Tuning Pre-trained Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.178.pdf
+- 代码链接：https://github.com/microsoft/FLAML/tree/main/flaml/nlp/
+#### Better than Average: Paired Evaluation of NLP Systems
+- 论文链接：https://aclanthology.org/2021.acl-long.179.pdf
+- 代码链接：https://github.com/epfl-dlab/BT-eval
+#### CHASE: A Large-Scale and Pragmatic Chinese Dataset for Cross-Database Context-Dependent Text-to-SQL
+- 论文链接：https://aclanthology.org/2021.acl-long.180.pdf
+- 代码链接：https://xjtu-intsoft.github.io/chase
+#### CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding
+- 论文链接：https://aclanthology.org/2021.acl-long.181.pdf
+- 代码链接：https://github.com/kandorm/CLINE
+#### Tree-Structured Topic Modeling with Nonparametric Neural Variational Inference
+- 论文链接：https://aclanthology.org/2021.acl-long.182.pdf
+- 代码链接：https://github.com/hostnlp/nTSNTM
+#### ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning
+- 论文链接：https://aclanthology.org/2021.acl-long.183.pdf
+- 代码链接：https://github.com/sjcfr/ExCAR
+#### Distributed Representations of Emotion Categories in Emotion Space
+- 论文链接：https://aclanthology.org/2021.acl-long.184.pdf
+- 代码链接：--
+#### Style is NOT a single variable:Case Studies for Cross-Style Language Understanding
+- 论文链接：https://aclanthology.org/2021.acl-long.185.pdf
+- 代码链接：--
+#### DynaSent: A Dynamic Benchmark for Sentiment Analysis
+- 论文链接：https://aclanthology.org/2021.acl-long.186.pdf
+- 代码链接：https://github.com/cgpotts/dynasent
+#### A Hierarchical VAE for Calibrating Attributes while Generating Text using Normalizing Flow
+- 论文链接：https://aclanthology.org/2021.acl-long.187.pdf
+- 代码链接：--
+#### A Unified Generative Framework for Aspect-Based Sentiment Analysis
+- 论文链接：https://aclanthology.org/2021.acl-long.188.pdf
+- 代码链接：https://github.com/yhcc/BARTABSA
+#### Discovering Dialogue Slots with Weak Supervision
+- 论文链接：https://aclanthology.org/2021.acl-long.189.pdf
+- 代码链接：https://github.com/vojtsek/joint-induction
 ####
 - 论文链接
 - 代码链接
