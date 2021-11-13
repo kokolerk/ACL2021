@@ -1,2 +1,6 @@
 # ACL2021
-ACL2021年712篇long paper和short paper的论文代码整理，仅供参考
+ACL是自然语言处理领域的权威顶会，今年2021年，ACL中稿712篇长文and短文。
+阅读顶会的论文和代码可以帮助我们更好的理解nlp领域的前沿科技
+在此，整理了ACL2021年712篇long paper和short paper的 
+## 论文+代码，
+仅供参考
