@@ -565,6 +565,99 @@
 #### Discovering Dialogue Slots with Weak Supervision
 - 论文链接：https://aclanthology.org/2021.acl-long.189.pdf
 - 代码链接：https://github.com/vojtsek/joint-induction
+#### Enhancing the generalization for Intent Classification and Out-of-Domain Detection in SLU
+- 论文链接：https://aclanthology.org/2021.acl-long.190.pdf
+- 代码链接：--
+#### PROTAUGMENT: Unsupervised diverse short-texts paraphrasing for intent detection meta-learning
+- 论文链接：https://aclanthology.org/2021.acl-long.191.pdf
+- 代码链接：https://github.com/tdopierre/ProtAugment
+#### Robustness Testing of Language Understanding in Task-Oriented Dialog
+- 论文链接：https://aclanthology.org/2021.acl-long.192.pdf
+- 代码链接：https://github.com/thu-coai/LAUG
+#### Comprehensive Study: How the Context Information of Different Granularity Affects Dialogue State Tracking?
+- 论文链接：https://aclanthology.org/2021.acl-long.193.pdf
+- 代码链接：https://github.com/ yangpuhai/Granularity-in-DST
+#### OTTers:One-turn Topic Transitions for Open-Domain Dialogue
+- 论文链接：https://aclanthology.org/2021.acl-long.194.pdf
+- 代码链接：https://github.com/karinseve/OTTers
+#### Towards Robustness of Text-to-SQL Models against Synonym Substitution
+- 论文链接：https://aclanthology.org/2021.acl-long.195.pdf
+- 代码链接：https://github.com/ygan/Spider-Syn
+#### KACE: Generating Knowledge-Aware Contrastive Explanations for Natural Language Inference
+- 论文链接：https://aclanthology.org/2021.acl-long.196.pdf
+- 代码链接：https://github.com/AI4NLP/KACE
+#### Self-Guided Contrastive Learning for BERT Sentence Representations
+- 论文链接：https://aclanthology.org/2021.acl-long.197.pdf
+- 代码链接：https://github.com/galsang/SG-BERT
+#### LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations
+- 论文链接：https://aclanthology.org/2021.acl-long.198.pdf
+- 代码链接：https://github.com/rhythmcao/text2sql-lgesql.git
+#### Multi-stage Pre-training over Simplified Multimodal Pre-training Models
+- 论文链接：https://aclanthology.org/2021.acl-long.199.pdf
+- 代码链接：https://github.com/lttsmn/LXMERT-S
+#### Beyond Sentence-Level End-to-End Speech Translation: Context Helps
+- 论文链接：https://aclanthology.org/2021.acl-long.200.pdf
+- 代码链接：https://github.com/bzhangGo/zero
+#### LayoutLMv2: Multi-modal Pre-training for Visually-rich Document Understanding
+- 论文链接：https://aclanthology.org/2021.acl-long.201.pdf
+- 代码链接：https://aka.ms/layoutlmv2
+#### UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.202.pdf
+- 代码链接：https://github.com/PaddlePaddle/ Research/tree/master/NLP/UNIMO
+#### Missing Modality Imagination Network for Emotion Recognition with Uncertain Missing Modalities
+- 论文链接：https://aclanthology.org/2021.acl-long.203.pdf
+- 代码链接：https://github.com/AIM3-RUC/MMIN
+#### Stacked Acoustic-and-Textual Encoding: Integrating the Pre-trained Models into Speech Translation Encoders
+- 论文链接：https://aclanthology.org/2021.acl-long.204.pdf
+- 代码链接： https://github.com/xuchenneu/SATE
+#### N-ary Constituent Tree Parsing with Recursive Semi-Markov Model
+- 论文链接：https://aclanthology.org/2021.acl-long.205.pdf
+- 代码链接：https://github.com/NP- NET-research/Recursive-Semi-Markov-Model
+#### Automated Concatenation of Embeddings for Structured Prediction
+- 论文链接：https://aclanthology.org/2021.acl-long.206.pdf
+- 代码链接：https://github.com/Alibaba-NLP/ACE
+#### Multi-View Cross-Lingual Structured Prediction with Minimum Supervision
+- 论文链接：https://aclanthology.org/2021.acl-long.207.pdf
+- 代码链接：--
+#### The Limitations of Limited Context for Constituency Parsing
+- 论文链接：https://aclanthology.org/2021.acl-long.208.pdf
+- 代码链接：--
+#### Neural Bi-Lexicalized PCFG Induction
+- 论文链接：https://aclanthology.org/2021.acl-long.209.pdf
+- 代码链接：https://github.com/sustcsonglin/TN-PCFG
+#### Ruddit: Norms of Offensiveness for English Reddit Comments
+- 论文链接：https://aclanthology.org/2021.acl-long.210.pdf
+- 代码链接：https://github.com/hadarishav/Ruddit.
+#### Towards Quantifiable Dialogue Coherence Evaluation
+- 论文链接：https://aclanthology.org/2021.acl-long.211.pdf
+- 代码链接：https://github.com/James-Yip/QuantiDCE
+#### Assessing the Representations of Idiomaticity in Vector Models with a Noun Compound Dataset Labeled at Type and Token Levels
+- 论文链接：https://aclanthology.org/2021.acl-long.212.pdf
+- 代码链接：https://github.com/marcospln/nctti
+#### Factoring Statutory Reasoning as Language Understanding Challenges
+- 论文链接：https://aclanthology.org/2021.acl-long.213.pdf
+- 代码链接：https://github.com/SgfdDttt/sara_v2
+#### Evaluating Evaluation Measures for Ordinal Classification and Ordinal Quantification
+- 论文链接：https://aclanthology.org/2021.acl-long.214.pdf
+- 代码链接：https://waseda.box.com/ACL2021PACKOCOQ
+#### Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Mak
+- 论文链接：https://aclanthology.org/2021.acl-long.215.pdf
+- 代码链接：https://github.com/THU-KEG/HIF-KAT
+#### Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition
+- 论文链接：https://aclanthology.org/2021.acl-long.216.pdf
+- 代码链接：https://github.com/tricktreat/locate-and-label
+#### TEXT2EVENT: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.217.pdf
+- 代码链接：https://github.com/luyaojie/text2event
+#### A Large-Scale Chinese Multimodal NER Dataset with Speech Clues
+- 论文链接：https://aclanthology.org/2021.acl-long.218.pdf
+- 代码链接：--
+#### A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization
+- 论文链接：https://aclanthology.org/2021.acl-long.219.pdf
+- 代码链接：--
+#### OntoED: Low-resource Event Detection with Ontology Embedding
+- 论文链接：https://aclanthology.org/2021.acl-long.220.pdf
+- 代码链接：https://github.com/231sm/Reasoning_In_EE
 ####
 - 论文链接
 - 代码链接
