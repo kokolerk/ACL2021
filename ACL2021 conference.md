@@ -658,6 +658,65 @@
 #### OntoED: Low-resource Event Detection with Ontology Embedding
 - 论文链接：https://aclanthology.org/2021.acl-long.220.pdf
 - 代码链接：https://github.com/231sm/Reasoning_In_EE
+#### Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.221.pdf
+- 代码链接：https://github.com/wxjiao/UncSamp
+#### Breaking Corpus Bottleneck for Context-Aware Neural Machine Translation with Cross-Task Pre-training
+- 论文链接：https://aclanthology.org/2021.acl-long.222.pdf
+- 代码链接：--
+#### Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.223.pdf
+- 代码链接：https://github.com/ictnlp/SeerForcingNMT
+#### Cascade versus Direct Speech Translation: Do the Differences Still Make a Difference?
+- 论文链接：https://aclanthology.org/2021.acl-long.224.pdf
+- 代码链接：https://github.com/mgaido91/FBK-fairseq-ST
+- 代码链接：https://github.com/modernmt/modernmt
+#### Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.225.pdf
+- 代码链接：https://github.com/papago-lab/MetaGUMT
+#### Lightweight Cross-Lingual Sentence Representation Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.226.pdf
+- 代码链接：https://github.com/Mao-KU/lightweight-crosslingual-sent2vec
+#### ERNIE-DOC: A Retrospective Long-Document Modeling Transformer
+- 论文链接：https://aclanthology.org/2021.acl-long.227.pdf
+- 代码链接：https://github.com/PaddlePaddle/ERNIE/tree/repro/ernie-doc
+#### Marginal Utility Diminishes: Exploring the Minimum Knowledge for BERT Knowledge Distillation
+- 论文链接：https://aclanthology.org/2021.acl-long.228.pdf
+- 代码链接：https://github.com/llyx97/Marginal-Utility-Diminishes
+#### Rational LAMOL: A Rationale-Based Lifelong Learning Framework
+- 论文链接：https://aclanthology.org/2021.acl-long.229.pdf
+- 代码链接：https://github.com/kanwatchara-k/r_lamol
+#### EnsLM: Ensemble Language Model for Data Diversity by Semantic Clustering
+- 论文链接：https://aclanthology.org/2021.acl-long.230.pdf
+- 代码链接：https://github.com/BoChenGroup/EnsLM
+#### LeeBERT: Learned Early Exit for BERT with Cross-Level Optimization
+- 论文链接：https://aclanthology.org/2021.acl-long.231.pdf
+- 代码链接：--
+#### Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering
+- 论文链接：https://aclanthology.org/2021.acl-long.232.pdf
+- 代码链接：https://github.com/reinaldncku/ESCOFILT
+#### PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction
+- 论文链接：https://aclanthology.org/2021.acl-long.233.pdf
+- 代码链接：https://github.com/liushulinle/PLOME
+#### Competence-based Multimodal Curriculum Learning for Medical Report Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.234.pdf
+- 代码链接：--
+#### Learning Syntactic Dense Embedding with Correlation Graph for Automatic Readability Assessment
+- 论文链接：https://aclanthology.org/2021.acl-long.235.pdf
+- 代码链接：https://github.com/luv2Lab/linguistic-feature-embedding
+#### Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains
+- 论文链接：https://aclanthology.org/2021.acl-long.236.pdf
+- 代码链接：https://github.com/alibaba/EasyTransfer/tree/master/scripts/metaKD
+#### A Semantic-based Method for Unsupervised Commonsense Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.237.pdf
+- 代码链接：--
+#### Explanations for CommonsenseQA: New Dataset and Models
+- 论文链接：https://aclanthology.org/2021.acl-long.238.pdf
+- 代码链接：https://github.com/dair-iitd/ECQA-Dataset
+- 代码链接：https://github.com/dair-iitd/ECQA
+#### Few-Shot Question Answering by Pretraining Span Selection
+- 论文链接：https://aclanthology.org/2021.acl-long.239.pdf
+- 代码链接：https://github.com/oriram/splinter
 ####
 - 论文链接
 - 代码链接
