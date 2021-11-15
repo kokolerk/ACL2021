@@ -717,6 +717,66 @@
 #### Few-Shot Question Answering by Pretraining Span Selection
 - 论文链接：https://aclanthology.org/2021.acl-long.239.pdf
 - 代码链接：https://github.com/oriram/splinter
+#### UnitedQA: A Hybrid Approach for Open Domain Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.240.pdf
+- 代码链接：--
+#### Database Reasoning Over Text
+- 论文链接：https://aclanthology.org/2021.acl-long.241.pdf
+- 代码链接：https://github.com/facebookresearch/NeuralDB
+#### Online Learning Meets Machine Translation Evaluation: Finding the Best Systems with the Least Human Effort
+- 论文链接：https://aclanthology.org/2021.acl-long.242.pdf
+- 代码链接：https://github.com/vania-mendonca/MTOL
+#### How Good is Your Tokenizer?On the Monolingual Performance of Multilingual Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.243.pdf
+- 代码链接：https://github.com/Adapter-Hub/hgiyt
+#### Evaluating morphological typology in zero-shot cross-lingual transfer
+- 论文链接：https://aclanthology.org/2021.acl-long.244.pdf
+- 代码链接：https://github.com/jerbarnes/typology_of_crosslingual
+#### From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text
+- 论文链接：https://aclanthology.org/2021.acl-long.245.pdf
+- 代码链接：https://www.cse.iitb.ac.in/~pjyothi/TCS
+#### Fast and Accurate Neural Machine Translation with Translation Memory
+- 论文链接：https://aclanthology.org/2021.acl-long.246.pdf
+- 代码链接：--
+#### Annotating Online Misogyny
+- 论文链接：https://aclanthology.org/2021.acl-long.247.pdf
+- 代码链接：--
+#### FEW-NERD: A Few-shot Named Entity Recognition Dataset
+- 论文链接：https://aclanthology.org/2021.acl-long.248.pdf
+- 代码链接：https://ningding97.github.io/fewnerd/
+#### MultiMET: A Multimodal Dataset for Metaphor Understanding
+- 论文链接：https://aclanthology.org/2021.acl-long.249.pdf
+- 代码链接：--
+#### Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech
+- 论文链接：https://aclanthology.org/2021.acl-long.250.pdf
+- 代码链接：https://github.com/marcoguerini/CONAN
+#### Can Generative Pre-trained Language Models Serve as Knowledge Bases for Closed-book QA?
+- 论文链接：https://aclanthology.org/2021.acl-long.251.pdf
+- 代码链接：https://github.com/wangcunxiang/Can_ PLM_Server_as_KB
+#### Joint Models for Answer Verification in Question Answering Systems
+- 论文链接：https://aclanthology.org/2021.acl-long.252.pdf
+- 代码链接：--
+#### Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction
+- 论文链接：https://aclanthology.org/2021.acl-long.253.pdf
+- 代码链接：https://github.com/amzn/refuel-open-domain-qa
+#### TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance
+- 论文链接：https://aclanthology.org/2021.acl-long.254.pdf
+- 代码链接：https://nextplusplus.github.io/TAT-QA/
+#### Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.255.pdf
+- 代码链接：https://github.com/lanyunshi/ConversationalKBQA
+#### Evidence-based Factual Error Correction
+- 论文链接：https://aclanthology.org/2021.acl-long.256.pdf
+- 代码链接：https://github.com/j6mes/ 2021-acl-factual-error-correction
+#### Probabilistic, Structure-Aware Algorithms for Improved Variety, Accuracy, and Coverage of AMR Alignments
+- 论文链接：https://aclanthology.org/2021.acl-long.257.pdf
+- 代码链接：https://github.com/ablodge/leamr
+#### Meta-Learning to Compositionally Generalize
+- 论文链接：https://aclanthology.org/2021.acl-long.258.pdf
+- 代码链接：https://github.com/berlino/tensor2struct-public
+#### Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation
+- 论文链接：https://aclanthology.org/2021.acl-long.259.pdf
+- 代码链接：https://github.com/shizhediao/T-DNA
 ####
 - 论文链接
 - 代码链接
