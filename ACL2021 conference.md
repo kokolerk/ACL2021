@@ -777,6 +777,126 @@
 #### Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation
 - 论文链接：https://aclanthology.org/2021.acl-long.259.pdf
 - 代码链接：https://github.com/shizhediao/T-DNA
+#### ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.260.pdf
+- 代码链接：https://github.com/thunlp/ERICA
+#### Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.261.pdf
+- 代码链接：https://github.com/hanqi-qi/Position-Bias-Mitigation-in-Emotion-Cause-Analysis
+#### Every Bite Is an Experience: Key Point Analysis of Business Reviews
+- 论文链接：https://aclanthology.org/2021.acl-long.262.pdf
+- 代码链接：--
+#### Structured Sentiment Analysis as Dependency Graph Parsing
+- 论文链接：https://aclanthology.org/2021.acl-long.263.pdf
+- 代码链接：https://github.com/jerbarnes/sentiment_graphs
+#### Consistency Regularization for Cross-Lingual Fine-Tuning
+- 论文链接：https://aclanthology.org/2021.acl-long.264.pdf
+- 代码链接：https://github.com/bozheng-hit/xTune
+#### Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment
+- 论文链接：https://aclanthology.org/2021.acl-long.265.pdf
+- 代码链接：--
+#### Rejuvenating Low-Frequency Words:Making the Most of Parallel Data in Non-Autoregressive Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.266.pdf
+- 代码链接：https://github.com/longyuewangdcu/RLFW-NAT
+#### G-Transformer for Document-level Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.267.pdf
+- 代码链接：https://github.com/baoguangsheng/g-transformer
+#### Prevent the Language Model from being Overconfident in Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.268.pdf
+- 代码链接： https://github.com/Mlair77/nmt_adequacy
+#### Towards Emotional Support Dialog Systems
+- 论文链接：https://aclanthology.org/2021.acl-long.269.pdf
+- 代码链接：https://github.com/thu-coai/Emotional-Support-Conversation
+#### Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System
+- 论文链接：https://aclanthology.org/2021.acl-long.270.pdf
+- 代码链接：https://github.com/ChestnutWYN/ACL20-21-Novel-Slot-Detection
+#### GTM: A Generative Triple-Wise Model for Conversational Question Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.271.pdf
+- 代码链接：--
+#### Diversifying Dialog Generation via Adaptive Label Smoothing
+- 论文链接：https://aclanthology.org/2021.acl-long.272.pdf
+- 代码链接：https://github.com/lemon234071/AdaLabel
+#### Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training
+- 论文链接：https://aclanthology.org/2021.acl-long.273.pdf
+- 代码链接：https://github.com/liam0949/DCLOOS
+#### Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker
+- 论文链接：https://aclanthology.org/2021.acl-long.274.pdf
+- 代码链接：https://github.com/RunxinXu/GIT
+#### Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path
+- 论文链接：https://aclanthology.org/2021.acl-long.275.pdf
+- 代码链接：https://github.com/speedcell4/nersted
+#### LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification
+- 论文链接：https://aclanthology.org/2021.acl-long.276.pdf
+- 代码链接：--
+#### Revisiting the Negative Data of Distantly Supervised Relation Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.277.pdf
+- 代码链接： https://github.com/redreamality/RERE-relation-extraction
+#### Knowing the No-match: Entity Alignment with Dangling Cases
+- 论文链接：https://aclanthology.org/2021.acl-long.278.pdf
+- 代码链接：--
+#### Superbizarre Is Not Superb: Derivational Morphology Improves BERT’s Interpretation of Complex Words
+- 论文链接：https://aclanthology.org/2021.acl-long.279.pdf
+- 代码链接：https://github.com/valentinhofmann/superbizarre
+#### BERT is to NLP what AlexNet is to CV:Can Pre-Trained Language Models Identify Analogies?
+- 论文链接：https://aclanthology.org/2021.acl-long.280.pdf
+- 代码链接：https://github.com/asahi417/analogy-language-model
+#### Exploring the Representation of Word Meanings in Context: A Case Study on Homonymy and Synonymy
+- 论文链接：https://aclanthology.org/2021.acl-long.281.pdf
+- 代码链接：https://github.com/marcospln/homonymy_acl21/
+#### Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach
+- 论文链接：https://aclanthology.org/2021.acl-long.282.pdf
+- 代码链接：https://github.com/jeffhj/domain-relevance
+#### HERALD: An Annotation Efficient Method to Detect User Disengagement in Social Conversations
+- 论文链接：https://aclanthology.org/2021.acl-long.283.pdf
+- 代码链接：https://github.com/Weixin-Liang/HERALD/
+#### Value-Agnostic Conversational Semantic Parsing
+- 论文链接：https://aclanthology.org/2021.acl-long.284.pdf
+- 代码链接： https: //github.com/microsoft/task_oriented_dialogue_ as_dataflow_synthesis/tree/master/datasets
+#### MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding
+- 论文链接：https://aclanthology.org/2021.acl-long.285.pdf
+- 代码链接：https://github.com/JasonForJoy/MPC-BERT
+#### Best of Both Worlds: Making High Accuracy Non-incremental Transformer-based Disfluency Detection Incremental
+- 论文链接：https://aclanthology.org/2021.acl-long.286.pdf
+- 代码链接：https://github.com/mortezaro/tr-disfluency
+#### NeuralWOZ: Learning to Collect Task-Oriented Dialogue via Model-Based Simulation
+- 论文链接：https://aclanthology.org/2021.acl-long.287.pdf
+- 代码链接：--
+#### CDRNN: Discovering Complex Dynamics in Human Language Processing
+- 论文链接：https://aclanthology.org/2021.acl-long.288.pdf
+- 代码链接： https://osf.io/z89vn/
+#### Structural Guidance for Transformer Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.289.pdf
+- 代码链接：https://github.com/IBM/transformers-struct-guidance
+#### Surprisal Estimators for Human Reading Times Need Character Models
+- 论文链接：https://aclanthology.org/2021.acl-long.290.pdf
+- 代码链接：https://github.com/byungdoh/acl21_semproc
+#### CogAlign: Learning to Align Textual Neural Representations to Cognitive Language Processing Signals
+- 论文链接：https://aclanthology.org/2021.acl-long.291.pdf
+- 代码链接：https://github. com/tjunlp-lab/CogAlign.git
+#### Self-Attention Networks Can Process Bounded Hierarchical Languages
+- 论文链接：https://aclanthology.org/2021.acl-long.292.pdf
+- 代码链接：https://github.com/princeton-nlp/dyck-transformer
+#### TextSETTR: Few-Shot Text Style Extraction and Tunable Targeted Restyling
+- 论文链接：https://aclanthology.org/2021.acl-long.293.pdf
+- 代码链接：--
+#### H-Transformer-1D: Fast One-Dimensional Hierarchical Attention for Sequences
+- 论文链接：https://aclanthology.org/2021.acl-long.294.pdf
+- 代码链接：--
+#### Making Pre-trained Language Models Better Few-shot Learners
+- 论文链接：https://aclanthology.org/2021.acl-long.295.pdf
+- 代码链接： https://github.com/princeton-nlp/LM-BFF
+#### A Sweet Rabbit Hole by DARCY:Using Honeypots to Detect Universal Trigger’s Adversarial Attacks
+- 论文链接：https://aclanthology.org/2021.acl-long.296.pdf
+- 代码链接：https://github.com/lethaiq/ACL2021-DARCY-HoneypotDefenseNLP
+#### Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection
+- 论文链接：https://aclanthology.org/2021.acl-long.297.pdf
+- 代码链接：https://github.com/weilingwei96/EBGCN
+#### Label-Specific Dual Graph Neural Network for Multi-Label Text Classification
+- 论文链接：https://aclanthology.org/2021.acl-long.298.pdf
+- 代码链接：https://github.com/Makwen1995/LDGN MLTC
+#### TAN-NTM: Topic Attention Networks for Neural Topic Modeling
+- 论文链接：https://aclanthology.org/2021.acl-long.299.pdf
+- 代码链接：--
 ####
 - 论文链接
 - 代码链接
