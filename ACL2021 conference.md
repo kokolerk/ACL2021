@@ -872,7 +872,7 @@
 - 代码链接：https://github.com/byungdoh/acl21_semproc
 #### CogAlign: Learning to Align Textual Neural Representations to Cognitive Language Processing Signals
 - 论文链接：https://aclanthology.org/2021.acl-long.291.pdf
-- 代码链接：https://github. com/tjunlp-lab/CogAlign.git
+- 代码链接：https://github.com/tjunlp-lab/CogAlign.git
 #### Self-Attention Networks Can Process Bounded Hierarchical Languages
 - 论文链接：https://aclanthology.org/2021.acl-long.292.pdf
 - 代码链接：https://github.com/princeton-nlp/dyck-transformer
@@ -893,7 +893,7 @@
 - 代码链接：https://github.com/weilingwei96/EBGCN
 #### Label-Specific Dual Graph Neural Network for Multi-Label Text Classification
 - 论文链接：https://aclanthology.org/2021.acl-long.298.pdf
-- 代码链接：https://github.com/Makwen1995/LDGN MLTC
+- 代码链接：https://github.com/Makwen1995/LDGN-MLTC
 #### TAN-NTM: Topic Attention Networks for Neural Topic Modeling
 - 论文链接：https://aclanthology.org/2021.acl-long.299.pdf
 - 代码链接：--
