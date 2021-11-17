@@ -897,6 +897,126 @@
 #### TAN-NTM: Topic Attention Networks for Neural Topic Modeling
 - 论文链接：https://aclanthology.org/2021.acl-long.299.pdf
 - 代码链接：--
+#### Cross-language Sentence Selection via Data Augmentation and Rationale Training
+- 论文链接：https://aclanthology.org/2021.acl-long.300.pdf
+- 代码链接：https://trec.nist.gov/trec_eval/
+#### A Neural Model for Joint Document and Snippet Ranking in Question Answering for Large Document Collections
+- 论文链接：https://aclanthology.org/2021.acl-long.301.pdf
+- 代码链接：--
+#### W-RST: Towards a Weighted RST-style Discourse Framework
+- 论文链接：https://aclanthology.org/2021.acl-long.302.pdf
+- 代码链接：https://github.com/nlpat/MEGA-DT
+#### ABCD: A Graph Framework to Convert Complex Sentences to a Covering Set of Simple Sentences
+- 论文链接：https://aclanthology.org/2021.acl-long.303.pdf
+- 代码链接：https://github.com/serenayj/ABCD-ACL2021
+#### Which Linguist Invented the Lightbulb? Presupposition Verification for Question-Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.304.pdf
+- 代码链接：https://github.com/google-research/google-research/presup-qa
+#### Adversarial Learning for Discourse Rhetorical Structure Parsing
+- 论文链接：https://aclanthology.org/2021.acl-long.305.pdf
+- 代码链接：https://github.com/ NLP-Discourse-SoochowU/GAN_DP
+#### Exploring Discourse Structures for Argument Impact Classification
+- 论文链接：https://aclanthology.org/2021.acl-long.306.pdf
+- 代码链接：https://github.com/HKUST-KnowComp/DisCOC
+#### Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.307.pdf
+- 代码链接：--
+#### VECO: Variable and Flexible Cross-lingual Pre-training for Language Understanding and Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.308.pdf
+- 代码链接：https://github.com/alibaba/AliceMind/tree/main/VECO
+#### A unified approach to sentence segmentation of punctuated text in many languages
+- 论文链接：https://aclanthology.org/2021.acl-long.309.pdf
+- 代码链接： https://github.com/rewicks/ersatz
+#### Towards User-Driven Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.310.pdf
+- 代码链接：https://github.com/DeepLearnXMU/User-Driven-NMT
+#### End-to-End Lexically Constrained Machine Translation for Morphologically Rich Languages
+- 论文链接：https://aclanthology.org/2021.acl-long.311.pdf
+- 代码链接：--
+#### Handling Extreme Class Imbalance in Technical Logbook Datasets
+- 论文链接：https://aclanthology.org/2021.acl-long.312.pdf
+- 代码链接：--
+#### ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation
+- 论文链接：https://aclanthology.org/2021.acl-long.313.pdf
+- 代码链接：https://github.com/Exploration-Lab/CJPE
+#### Supporting Cognitive and Emotional Empathic Writing of Students
+- 论文链接：https://aclanthology.org/2021.acl-long.314.pdf
+- 代码链接：https://github.com/thiemowa/empathy_annotated_peer_reviews
+#### Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.315.pdf
+- 代码链接：https://github.com/AlexanderYogurt/Hybrid-Open-QA
+#### Generation-Augmented Retrieval for Open-Domain Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.316.pdf
+- 代码链接：https://github.com/morningmoni/GAR
+#### Check It Again: Progressive Visual Question Answering via Visual Entailment
+- 论文链接：https://aclanthology.org/2021.acl-long.317.pdf
+- 代码链接： https://github.com/PhoebusSi/SAR
+#### A Mutual Information Maximization Approach for the Spurious Solution Problem in Weakly Supervised Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.318.pdf
+- 代码链接：--
+#### Breaking Down Walls of Text: How Can NLP Benefit Consumer Privacy?
+- 论文链接：https://aclanthology.org/2021.acl-long.319.pdf
+- 代码链接：--
+#### Supporting Land Reuse of Former Open Pit Mining Sites using Text Classification and Active Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.320.pdf
+- 代码链接：--
+#### Reliability Testing for Natural Language Processing Systems
+- 论文链接：https://aclanthology.org/2021.acl-long.321.pdf
+- 代码链接：--
+#### Learning Language and Multimodal Privacy-Preserving Markers of Mood from Mobile Data
+- 论文链接：https://aclanthology.org/2021.acl-long.322.pdf
+- 代码链接：--
+#### Anonymisation Models for Text Data:State of the Art, Challenges and Future Directions
+- 论文链接：https://aclanthology.org/2021.acl-long.323.pdf
+- 代码链接：https://github.com/IldikoPilan/anonymisation_ACL2021
+#### End-to-End AMR Coreference Resolution
+- 论文链接：https://aclanthology.org/2021.acl-long.324.pdf
+- 代码链接：https://github.com/Sean-Blank/AMRcoref
+#### How is BERT surprised? Layerwise detection of linguistic anomalies
+- 论文链接：https://aclanthology.org/2021.acl-long.325.pdf
+- 代码链接：https://github.com/SPOClab-ca/layerwise-anomaly
+#### Psycholinguistic Tripartite Graph Network for Personality Detection
+- 论文链接：https://aclanthology.org/2021.acl-long.326.pdf
+- 代码链接：--
+#### Verb Metaphor Detection via Contextual Relation Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.327.pdf
+- 代码链接：--
+#### Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task
+- 论文链接：https://aclanthology.org/2021.acl-long.328.pdf
+- 代码链接：https://github.com/pytorch/fairseq/tree/master/examples/speech_text joint to text
+#### Probing Toxic Content in Large Pre-Trained Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.329.pdf
+- 代码链接：https://github.com/HKUST-KnowComp/Probing_toxicity_in_PTLMs
+#### Societal Biases in Language Generation: Progress and Challenges
+- 论文链接：https://aclanthology.org/2021.acl-long.330.pdf
+- 代码链接：https://github.com/ewsheng/decoding-biases
+#### Reservoir Transformers
+- 论文链接：https://aclanthology.org/2021.acl-long.331.pdf
+- 代码链接：--
+#### Subsequence Based Deep Active Learning for Named Entity Recognition
+- 论文链接：https://aclanthology.org/2021.acl-long.332.pdf
+- 代码链接：https://github.com/puria-radmard/RFL-SBDALNER
+#### Convolutions and Self-Attention: Re-interpreting Relative Positions in Pre-trained Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.333.pdf
+- 代码链接：https://github.com/mlpc-ucsd/BERT_Convolutions
+#### BinaryBERT: Pushing the Limit of BERT Quantization
+- 论文链接：https://aclanthology.org/2021.acl-long.334.pdf
+- 代码链接： https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BinaryBERT
+#### Are Pre-trained Convolutions Better than Pre-trained Transformers?
+- 论文链接：https://aclanthology.org/2021.acl-long.335.pdf
+- 代码链接：--
+#### PairRE: Knowledge Graph Embeddings via Paired Relation Vectors
+- 论文链接：https://aclanthology.org/2021.acl-long.336.pdf
+- 代码链接：https://github.com/alipay/KnowledgeGraphEmbeddingsViaPairedRelationVectors_PairRE
+#### Hierarchy-aware Label Semantics Matching Network for Hierarchical Text Classification
+- 论文链接：https://aclanthology.org/2021.acl-long.337.pdf
+- 代码链接：--
+#### HiddenCut: Simple Data Augmentation for Natural Language Understanding with Better Generalization
+- 论文链接：https://aclanthology.org/2021.acl-long.338.pdf
+- 代码链接：https://github.com/GT-SALT/HiddenCut
+#### Neural Stylistic Response Generation with Disentangled Latent Variables
+- 论文链接：https://aclanthology.org/2021.acl-long.339.pdf
+- 代码链接：https://github.com/golsun/StyleFusion
 ####
 - 论文链接
 - 代码链接
