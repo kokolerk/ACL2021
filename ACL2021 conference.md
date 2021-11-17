@@ -273,7 +273,7 @@
 - 代码链接：https://github.com/lena-voita/the-story-of-heads
 #### Comparing Test Sets with Item Response Theory
 - 论文链接：https://aclanthology.org/2021.acl-long.92.pdf
-- 代码链接：https://github. com/nyu- mll/nlu- test- sets.
+- 代码链接：https://github.com/nyu-mll/nlu-test-sets
 #### Uncovering Constraint-Based Behavior in Neural Models via Targeted Fine-Tuning
 - 论文链接：https://aclanthology.org/2021.acl-long.93.pdf
 - 代码链接：https://github.com/forrestdavis/ImplicitCausality
@@ -423,7 +423,7 @@
 - 代码链接：https://github.com/HKUST-KnowComp/MLMET
 #### Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning
 - 论文链接：https://aclanthology.org/2021.acl-long.142.pdf
-- 代码链接：https://github. com/Alibaba-NLP/CLNER
+- 代码链接：https://github.com/Alibaba-NLP/CLNER
 #### Implicit Representations of Meaning in Neural Language Models
 - 论文链接：https://aclanthology.org/2021.acl-long.143.pdf
 - 代码链接：https://github.com/belindal/state-probes
@@ -438,10 +438,10 @@
 - 代码链接：https://github.com/c-box/LANKA
 #### Poisoning Knowledge Graph Embeddings via Relation Inference Patterns
 - 论文链接：https://aclanthology.org/2021.acl-long.147.pdf
-- 代码链接：https://github.com/PeruBhardwaj/ InferenceAttack
+- 代码链接：https://github.com/PeruBhardwaj/InferenceAttack
 #### Bad Seeds: Evaluating Lexical Methods for Bias Measurement
 - 论文链接：https://aclanthology.org/2021.acl-long.148.pdf
-- 代码链接：https://gi thub.com/maria-antoniak/bad-seeds
+- 代码链接：https://github.com/maria-antoniak/bad-seeds
 #### A Survey of Race, Racism, and Anti-Racism in NLP
 - 论文链接：https://aclanthology.org/2021.acl-long.149.pdf
 - 代码链接：--
@@ -914,7 +914,7 @@
 - 代码链接：https://github.com/google-research/google-research/presup-qa
 #### Adversarial Learning for Discourse Rhetorical Structure Parsing
 - 论文链接：https://aclanthology.org/2021.acl-long.305.pdf
-- 代码链接：https://github.com/ NLP-Discourse-SoochowU/GAN_DP
+- 代码链接：https://github.com/NLP-Discourse-SoochowU/GAN_DP
 #### Exploring Discourse Structures for Argument Impact Classification
 - 论文链接：https://aclanthology.org/2021.acl-long.306.pdf
 - 代码链接：https://github.com/HKUST-KnowComp/DisCOC
@@ -983,7 +983,7 @@
 - 代码链接：--
 #### Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task
 - 论文链接：https://aclanthology.org/2021.acl-long.328.pdf
-- 代码链接：https://github.com/pytorch/fairseq/tree/master/examples/speech_text joint to text
+- 代码链接：https://github.com/pytorch/fairseq/tree/master/examples/speech_text_joint_to_text
 #### Probing Toxic Content in Large Pre-Trained Language Models
 - 论文链接：https://aclanthology.org/2021.acl-long.329.pdf
 - 代码链接：https://github.com/HKUST-KnowComp/Probing_toxicity_in_PTLMs
