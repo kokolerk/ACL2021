@@ -1017,6 +1017,98 @@
 #### Neural Stylistic Response Generation with Disentangled Latent Variables
 - 论文链接：https://aclanthology.org/2021.acl-long.339.pdf
 - 代码链接：https://github.com/golsun/StyleFusion
+#### Intent Classification and Slot Filling for Privacy Policies
+- 论文链接：https://aclanthology.org/2021.acl-long.340.pdf
+- 代码链接：https://github.com/wasiahmad/PolicyIE
+####  RADDLE: An Evaluation Benchmark and Analysis Platform for Robust Task-oriented Dialog Systems
+- 论文链接：https://aclanthology.org/2021.acl-long.341.pdf
+- 代码链接：--
+#### Semantic Representation for Dialogue Modeling
+- 论文链接：https://aclanthology.org/2021.acl-long.342.pdf
+- 代码链接：https://github.com/muyeby/AMR-Dialogue
+#### A Pre-training Strategy for Zero-Resource Response Selection in Knowledge-Grounded Conversations
+- 论文链接：https://aclanthology.org/2021.acl-long.343.pdf
+- 代码链接：--
+#### Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks
+- 论文链接：https://aclanthology.org/2021.acl-long.344.pdf
+- 代码链接：https://github.com/cuhksz-nlp/RE-AGCN
+#### Evaluating Entity Disambiguation and the Role of Popularity in Retrieval-Based NLP
+- 论文链接：https://aclanthology.org/2021.acl-long.345.pdf
+- 代码链接： https://github.com/anthonywchen/AmbER-Sets
+#### Evaluation Examples Are Not Equally Informative: How Should That Change NLP Leaderboards?
+- 论文链接：https://aclanthology.org/2021.acl-long.346.pdf
+- 代码链接：https://irt.pedro.ai
+#### Claim Matching Beyond English to Scale Global Fact-Checking
+- 论文链接：https://aclanthology.org/2021.acl-long.347.pdf
+- 代码链接：https://doi.org/10.5281/zenodo.4890949（dataset）
+- 代码链接：https://huggingface.co/meedan/indian-xlm-r（model）
+#### SemFace: Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.348.pdf
+- 代码链接：--
+#### Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models
+- 论文链接：https://aclanthology.org/2021.acl-long.349.pdf
+- 代码链接：https://github.com/rooshenas/ebr_mt
+#### Syntax-augmented Multilingual BERT for Cross-lingual Transfer
+- 论文链接：https://aclanthology.org/2021.acl-long.350.pdf
+- 代码链接：https://github.com/wasiahmad/Syntax-MBERT
+#### How to Adapt Your Pretrained Multilingual Model to 1600 Languages
+- 论文链接：https://aclanthology.org/2021.acl-long.351.pdf
+- 代码链接：--
+#### Weakly Supervised Named Entity Tagging with Learnable Logical Rules
+- 论文链接：https://aclanthology.org/2021.acl-long.352.pdf
+- 代码链接：--
+#### Prefix-Tuning: Optimizing Continuous Prompts for Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.353.pdf
+- 代码链接：https://github.com/XiangLi1999/PrefixTuning（code）
+- 代码链接：https://worksheets.codalab.org/worksheets/0x16e0c8e7ab1f4b22aaccddc8b586541f（dataset）
+#### ONE2SET: Generating Diverse Keyphrases as a Set
+- 论文链接：https://aclanthology.org/2021.acl-long.354.pdf
+- 代码链接：https://github.com/jiacheng-ye/kg_one2set
+#### Continuous Language Generative Flow
+- 论文链接：https://aclanthology.org/2021.acl-long.355.pdf
+- 代码链接：https://github.com/zinengtang/ContinuousFlowNLG
+#### WAG: A Topic-guided Wikipedia Abstract Generator
+- 论文链接：https://aclanthology.org/2021.acl-long.356.pdf
+- 代码链接：https://github.com/THU-KEG/TWAG
+#### FORECASTQA: A Question Answering Challenge for Event Forecasting with Temporal Text Data
+- 论文链接：https://aclanthology.org/2021.acl-long.357.pdf
+- 代码链接：--
+#### Recursive Tree-Structured Self-Attention for Answer Sentence Selection
+- 论文链接：https://aclanthology.org/2021.acl-long.358.pdf
+- 代码链接：--
+#### How Knowledge Graph and Attention Help?A Quantitative Analysis into Bag-level Relation Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.359.pdf
+- 代码链接：https://github.com/zig-kwin-hu/how-KG-ATT-help
+#### Trigger is Not Sufficient: Exploiting Frame-aware Knowledge for Implicit Event Argument Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.360.pdf
+- 代码链接：--
+#### Element Intervention for Open Relation Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.361.pdf
+- 代码链接：https://github.com/Lfc1993/EIORE
+#### AdaTag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding
+- 论文链接：https://aclanthology.org/2021.acl-long.362.pdf
+- 代码链接：--
+#### CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.363.pdf
+- 代码链接：--
+#### Benchmarking Scalable Methods for Streaming Cross Document Entity Coreference
+- 论文链接：https://aclanthology.org/2021.acl-long.364.pdf
+- 代码链接：https://github.com/rloganiv/streaming-cdc
+#### Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs
+- 论文链接：https://aclanthology.org/2021.acl-long.365.pdf
+- 代码链接：--
+#### Employing Argumentation Knowledge Graphs for Neural Argument Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.366.pdf
+- 代码链接：https://github.com/webis-de/ACL-21
+#### Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.367.pdf
+- 代码链接：https://github.com/chiayewken/Span-ASTE
+#### On Compositional Generalization of Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.368.pdf
+- 代码链接：https://github.com/yafuly/CoGnition
+#### MASK-ALIGN: Self-Supervised Neural Word Alignment
+- 论文链接：https://aclanthology.org/2021.acl-long.369.pdf
+- 代码链接：https://github.com/THUNLP-MT/Mask-Align
 ####
 - 论文链接
 - 代码链接
