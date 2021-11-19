@@ -1109,6 +1109,66 @@
 #### MASK-ALIGN: Self-Supervised Neural Word Alignment
 - 论文链接：https://aclanthology.org/2021.acl-long.369.pdf
 - 代码链接：https://github.com/THUNLP-MT/Mask-Align
+#### GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.370.pdf
+- 代码链接：https://github.com/ghrua/gwlan
+#### De-biasing Distantly Supervised Named Entity Recognition via Causal Intervention
+- 论文链接：https://aclanthology.org/2021.acl-long.371.pdf
+- 代码链接：--
+#### A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition
+- 论文链接：https://aclanthology.org/2021.acl-long.372.pdf
+- 代码链接：https://github.com/foxlf823/sodner
+#### MLBiNet: A Cross-Sentence Collective Event Detection Network
+- 论文链接：https://aclanthology.org/2021.acl-long.373.pdf
+- 代码链接：https://github.com/zjunlp/DocED
+#### Exploiting Document Structures and Cluster Consistencies for Event Coreference Resolution
+- 论文链接：https://aclanthology.org/2021.acl-long.374.pdf
+- 代码链接：--
+#### StereoRel: Relational Triple Extraction from a Stereoscopic Perspective
+- 论文链接：https://aclanthology.org/2021.acl-long.375.pdf
+- 代码链接：--
+#### Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks
+- 论文链接：https://aclanthology.org/2021.acl-long.376.pdf
+- 代码链接：--
+#### Turn the Combination Lock:Learnable Textual Backdoor Attacks via Word Substitution
+- 论文链接：https://aclanthology.org/2021.acl-long.377.pdf
+- 代码链接：https://github.com/thunlp/BkdAtk-LWS
+#### Parameter-Efficient Transfer Learning with Diff Pruning
+- 论文链接：https://aclanthology.org/2021.acl-long.378.pdf
+- 代码链接：https://github.com/dguo98/DiffPruning
+#### R2D2: Recursive Transformer based on Differentiable Tree for Interpretable Hierarchical Language Modeling
+- 论文链接：https://aclanthology.org/2021.acl-long.379.pdf
+- 代码链接：https://github.com/alipay/StructuredLM_RTDT
+#### Risk Minimization for Zero-shot Sequence Labeling
+- 论文链接：https://aclanthology.org/2021.acl-long.380.pdf
+- 代码链接：--
+#### WARP: Word-level Adversarial ReProgramming
+- 论文链接：https://aclanthology.org/2021.acl-long.381.pdf
+- 代码链接：https://github.com/YerevaNN/WARP
+#### Lexicon Learning for Few-Shot Neural Sequence Modeling
+- 论文链接：https://aclanthology.org/2021.acl-long.382.pdf
+- 代码链接：https://github.com/ekinakyurek/lexical
+#### Personalized Transformer for Explainable Recommendation
+- 论文链接：https://aclanthology.org/2021.acl-long.383.pdf
+- 代码链接：https://github.com/lileipisces/PETER
+#### Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques
+- 论文链接：https://aclanthology.org/2021.acl-long.384.pdf
+- 代码链接：https://github.com/acmi-lab/modular-summarization
+#### Tail-to-Tail Non-Autoregressive Sequence Prediction for Chinese Grammatical Error Correction
+- 论文链接：https://aclanthology.org/2021.acl-long.385.pdf
+- 代码链接：https://github.com/lipiji/TtT
+#### Early Detection of Sexual Predators in Chats
+- 论文链接：https://aclanthology.org/2021.acl-long.386.pdf
+- 代码链接：--
+#### Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.387.pdf
+- 代码链接：--
+#### Concept-Based Label Embedding via Dynamic Routing for Hierarchical Text Classification
+- 论文链接：https://aclanthology.org/2021.acl-long.388.pdf
+- 代码链接: https://github.com/wxpkanon/CLEDforHTC.git
+#### VisualSparta: An Embarrassingly Simple Approach to Large-scale Text-to-Image Search with Weighted Bag-of-words
+- 论文链接：https://aclanthology.org/2021.acl-long.389.pdf
+- 代码链接：--
 ####
 - 论文链接
 - 代码链接
