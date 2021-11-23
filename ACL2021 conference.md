@@ -1440,4 +1440,63 @@
 #### PhotoChat: A Human-Human Dialogue Dataset with Photo Sharing Behavior for Joint Image-Text Modeling
 - 论文链接：https://aclanthology.org/2021.acl-long.479.pdf
 - 代码链接：https://github.com/google-research/google-research/tree/master/multimodalchat/
-
+#### Good for Misconceived Reasons: An Empirical Revisiting on the Need for Visual Context in Multimodal Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.480.pdf
+- 代码链接：https://github.com/LividWo/Revisit-MMT
+#### Attend What You Need:Motion-Appearance Synergistic Networks for Video Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.481.pdf
+- 代码链接：https://github.com/ahjeongseo/MASN-pytorch
+#### BERTifying the Hidden Markov Model for Multi-Source Weakly Supervised Named Entity Recognition
+- 论文链接：https://aclanthology.org/2021.acl-long.482.pdf
+- 代码链接：--
+#### CIL: Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.483.pdf
+- 代码链接：--
+#### SENT: Sentence-level Distant Relation Extraction via Negative Training
+- 论文链接：https://aclanthology.org/2021.acl-long.484.pdf
+- 代码链接：https://github.com/rtmaww/SENT
+#### An End-to-End Progressive Multi-Task Learning Framework for Medical Named Entity Recognition and Normalization
+- 论文链接：https://aclanthology.org/2021.acl-long.485.pdf
+- 代码链接：https://github.com/zhoubaohang/E2EMERN
+#### PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.486.pdf
+- 代码链接：https://github.com/hy-struggle/PRGC
+#### Learning from Miscellaneous Other-Class Words for Few-shot Named Entity Recognition
+- 论文链接：https://aclanthology.org/2021.acl-long.487.pdf
+- 代码链接：https://github.com/shuaiwa16/OtherClassNER.git
+#### Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference
+- 论文链接：https://aclanthology.org/2021.acl-long.488.pdf
+- 代码链接：https://github.com/laituan245/bio_relex
+#### Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation
+- 论文链接：https://aclanthology.org/2021.acl-long.489.pdf
+- 代码链接：https://github.com/zhangzx-uiuc/Knowledge-AMR
+#### Unleash GPT-2 Power for Event Detection
+- 论文链接：https://aclanthology.org/2021.acl-long.490.pdf
+- 代码链接：--
+#### CLEVE: Contrastive Pre-training for Event Extraction
+- 论文链接：https://aclanthology.org/2021.acl-long.491.pdf
+- 代码链接：https://github.com/THU-KEG/CLEVE
+#### Document-level Event Extraction via Parallel Prediction Networks
+- 论文链接：https://aclanthology.org/2021.acl-long.492.pdf
+- 代码链接：https://github.com/HangYang-NLP/DE-PPN
+#### StructuralLM: Structural Pre-training for Form Understanding
+- 论文链接：https://aclanthology.org/2021.acl-long.493.pdf
+- 代码链接：--
+#### Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis
+- 论文链接：https://aclanthology.org/2021.acl-long.494.pdf
+- 代码链接：https://github.com/CCChenhao997/DualGCN-ABSA
+#### Multi-Label Few-Shot Learning for Aspect Category Detection
+- 论文链接：https://aclanthology.org/2021.acl-long.495.pdf
+- 代码链接：--
+#### Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding
+- 论文链接：https://aclanthology.org/2021.acl-long.496.pdf
+- 代码链接：https://github.com/TianyuTerry/MLMC
+#### A Neural Transition-based Model for Argumentation Mining
+- 论文链接：https://aclanthology.org/2021.acl-long.497.pdf
+- 代码链接：--
+#### Keep it Simple: Unsupervised Simplification of Multi-Paragraph Text
+- 论文链接：https://aclanthology.org/2021.acl-long.498.pdf
+- 代码链接：https://github.com/tingofurro/keep_ it_simple
+#### Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence
+- 论文链接：https://aclanthology.org/2021.acl-long.499.pdf
+- 代码链接：https://github.com/thu-coai/HINT
