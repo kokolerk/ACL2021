@@ -1380,4 +1380,64 @@
 #### Cross-modal Memory Networks for Radiology Report Generation
 - 论文链接：https://aclanthology.org/2021.acl-long.459.pdf
 - 代码链接：https://github.com/cuhksz-nlp/R2GenCMN
+#### Controversy and Conformity: from Generalized to Personalized Aggressiveness Detection
+- 论文链接：https://aclanthology.org/2021.acl-long.460.pdf
+- 代码链接https://github.com/CLARIN-PL/controversy-conformity
+#### Multi-perspective Coherent Reasoning for Helpfulness Prediction of Multimodal Reviews
+- 论文链接：https://aclanthology.org/2021.acl-long.461.pdf
+- 代码链接：https://github.com/jhliu17/MCR
+#### Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding
+- 论文链接：https://aclanthology.org/2021.acl-long.462.pdf
+- 代码链接：https://github.com/AutoTemp/Shallow-Aggressive-Decoding
+#### Automatic ICD Coding via Interactive Shared Representation Networks with Self-distillation Mechanism
+- 论文链接：https://aclanthology.org/2021.acl-long.463.pdf
+- 代码链接：--
+#### PHMOSpell: Phonological and Morphological Knowledge Guided Chinese Spelling Check
+- 论文链接：https://aclanthology.org/2021.acl-long.464.pdf
+- 代码链接：--
+#### Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting
+- 论文链接：https://aclanthology.org/2021.acl-long.465.pdf
+- 代码链接：--
+#### Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.466.pdf
+- 代码链接：https://github.com/liang8qi/Data2TextWithAuxiliarySupervision
+#### POS-Constrained Parallel Decoding for Non-autoregressive Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.467.pdf
+- 代码链接：https://github.com/yangkexin/POSPD
+#### Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.468.pdf
+- 代码链接：https://github.com/DeepLearnXMU/embedding-transfer
+#### TGEA: An Error-Annotated Dataset and Benchmark Tasks for Text Generation from Pretrained Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.469.pdf
+- 代码链接：https://download.mindspore.cn/dataset/TGEA/
+#### Long-Span Summarization via Local Attention and Content Selection
+- 论文链接：https://aclanthology.org/2021.acl-long.470.pdf
+- 代码链接：https://github.com/potsawee/longsum0
+#### RepSum: Unsupervised Dialogue Summarization based on Replacement Strategy
+- 论文链接：https://aclanthology.org/2021.acl-long.471.pdf
+- 代码链接：https://github.com/xiyan524/RepSum
+#### BASS: Boosting Abstractive Summarization with Unified Semantic Graph
+- 论文链接：https://aclanthology.org/2021.acl-long.472.pdf
+- 代码链接：https://github.com/Tiiiger/bert_score
+#### Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.473.pdf
+- 代码链接：https://github.com/iriscxy/relatedworkgeneration
+#### Focus Attention: Promoting Faithfulness and Diversity in Summarization
+- 论文链接：https://aclanthology.org/2021.acl-long.474.pdf
+- 代码链接：--
+#### Generating Query Focused Summaries from Query-Free Resources
+- 论文链接：https://aclanthology.org/2021.acl-long.475.pdf
+- 代码链接：https://github.com/yumoxu/marge
+#### Robustifying Multi-hop Question Answering through Pseudo-Evidentiality Training
+- 论文链接：https://aclanthology.org/2021.acl-long.476.pdf
+- 代码链接：--
+#### xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.477.pdf
+- 代码链接：--
+#### Learn to Resolve Conversational Dependency:A Consistency Training Framework for Conversational Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.478.pdf
+- 代码链接：https://github.com/dmis-lab/excord
+#### PhotoChat: A Human-Human Dialogue Dataset with Photo Sharing Behavior for Joint Image-Text Modeling
+- 论文链接：https://aclanthology.org/2021.acl-long.479.pdf
+- 代码链接：https://github.com/google-research/google-research/tree/master/multimodalchat/
 
