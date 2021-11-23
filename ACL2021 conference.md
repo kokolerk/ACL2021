@@ -1653,3 +1653,100 @@
 #### RAW-C: Relatedness of Ambiguous Words—in Context (A New Lexical Resource for English)
 - 论文链接：https://aclanthology.org/2021.acl-long.550.pdf
 - 代码链接：https://github.com/seantrott/raw-c
+#### Learning Prototypical Functions for Physical Artifacts
+- 论文链接：https://aclanthology.org/2021.acl-long.540.pdf
+- 代码链接：https://github.com/tyjiangU/physical_artifacts_function
+#### Verb Knowledge Injection for Multilingual Event Processing
+- 论文链接：https://aclanthology.org/2021.acl-long.541.pdf
+- 代码链接：--
+#### Dynamic Contextualized Word Embeddings
+- 论文链接：https://aclanthology.org/2021.acl-long.542.pdf
+- 代码链接：https://github.com/valentinhofmann/dcwe
+#### Lexical Semantic Change Discovery
+- 论文链接：https://aclanthology.org/2021.acl-long.543.pdf
+- 代码链接：https://github.com/seinan9/LSCDiscovery
+####  The R-U-A-Robot Dataset: Helping Avoid Chatbot Deception by Detecting User Questions About Human or Non-Human Identity
+- 论文链接：https://aclanthology.org/2021.acl-long.544.pdf
+- 代码链接：--
+#### Using Meta-Knowledge Mined from Identifiers to Improve Intent Recognition in Conversational Systems
+- 论文链接：https://aclanthology.org/2021.acl-long.545.pdf
+- 代码链接：--
+#### Space Efficient Context Encoding for Non-Task-Oriented Dialogue Generation with Graph Attention Transformer
+- 论文链接：https://aclanthology.org/2021.acl-long.546.pdf
+- 代码链接：https://github.com/fabiangal/space-efficient-context-encoding-acl21
+#### DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations
+- 论文链接：https://aclanthology.org/2021.acl-long.547.pdf
+- 代码链接：https://github.com/zerohd4869/DialogueCRN
+#### Cross-replication Reliability - An Empirical Approach to Interpreting Inter-rater Reliability
+- 论文链接：https://aclanthology.org/2021.acl-long.548.pdf
+- 代码链接：https://github. com/google-research-datasets/
+#### TIMEDIAL: Temporal Commonsense Reasoning in Dialog
+- 论文链接：https://aclanthology.org/2021.acl-long.549.pdf
+- 代码链接：https://github.com/google-research-datasets/timedial
+#### RAW-C: Relatedness of Ambiguous Words—in Context (A New Lexical Resource for English)
+- 论文链接：https://aclanthology.org/2021.acl-long.550.pdf
+- 代码链接：https://github.com/seantrott/raw-c
+#### ARBERT & MARBERT: Deep Bidirectional Transformers for Arabic
+- 论文链接：https://aclanthology.org/2021.acl-long.551.pdf
+- 代码链接：https://github.com/UBC-NLP/marber
+#### Improving Paraphrase Detection with the Adversarial Paraphrasing Task
+- 论文链接：https://aclanthology.org/2021.acl-long.552.pdf
+- 代码链接：https://github.com/Advancing-Machine-Human-Reasoning-Lab/apt
+#### ADEPT: An Adjective-Dependent Plausibility Task
+- 论文链接：https://aclanthology.org/2021.acl-long.553.pdf
+- 代码链接：https://github.com/aemami1/ADEPT
+#### READONCE Transformers: Reusable Representations of Text for Transformers
+- 论文链接：https://aclanthology.org/2021.acl-long.554.pdf
+- 代码链接：--
+#### Conditional Generation of Temporally-ordered Event Sequences
+- 论文链接：https://aclanthology.org/2021.acl-long.555.pdf
+- 代码链接：--
+#### Hate Speech Detection based on Sentiment Knowledge Sharing
+- 论文链接：https://aclanthology.org/2021.acl-long.556.pdf
+- 代码链接：https://github.com/1783696285/SKS
+#### Transition-based Bubble Parsing: Improvements on Coordination Structure Prediction
+- 论文链接：https://aclanthology.org/2021.acl-long.557.pdf
+- 代码链接：https://www.github.com/tzshi/bubble-parser-acl21
+#### SPANNER: Named Entity Re-/Recognition as Span Prediction
+- 论文链接：https://aclanthology.org/2021.acl-long.558.pdf
+- 代码链接：https://github.com/neulab/spanner
+#### StructFormer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling
+- 论文链接：https://aclanthology.org/2021.acl-long.559.pdf
+- 代码链接：--
+#### Language Embeddings for Typology and Cross-lingual Transfer Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.560.pdf
+- 代码链接：https://github.com/DianDYu/language_embeddings
+#### Can Sequence-to-Sequence Models Crack Substitution Ciphers?
+- 论文链接：https://aclanthology.org/2021.acl-long.561.pdf
+- 代码链接：https://github.com/NadaAldarrab/s2s-decipherment
+#### Beyond Noise: Mitigating the Impact of Fine-grained Semantic Divergences on Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.562.pdf
+- 代码链接：https://github.com/Elbria/xling-SemDiv-NMT
+#### Discriminative Reranking for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.563.pdf
+- 代码链接：https://github.com/pytorch/fairseq/tree/master/examples/discriminative_reranking_nmt
+#### Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.564.pdf
+- 代码链接：--
+#### All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text
+- 论文链接：https://aclanthology.org/2021.acl-long.565.pdf
+- 代码链接：--
+#### Hate Speech Detection based on Sentiment Knowledge Sharing
+- 论文链接：https://aclanthology.org/2021.acl-long.566.pdf
+- 代码链接：https://github.com/1783696285/SKS
+#### Neural Machine Translation with Monolingual Translation Memory
+- 论文链接：https://aclanthology.org/2021.acl-long.567.pdf
+- 代码链接：https://github.com/jcyk/copyisallyouneed
+#### Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning
+- 论文链接：https://aclanthology.org/2021.acl-long.568.pdf
+- 代码链接：--
+#### UnNatural Language Inference
+- 论文链接：https://aclanthology.org/2021.acl-long.569.pdf
+- 代码链接：https://github.com/facebookresearch/unlu
+#### Including Signed Languages in Natural Language Processing
+- 论文链接：https://aclanthology.org/2021.acl-long.570.pdf
+- 代码链接：--
+#### Vocabulary Learning via Optimal Transport for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.571.pdf
+- 代码链接：https://github.com/Jingjing-NLP/VOLT
+
