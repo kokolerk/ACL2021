@@ -1620,4 +1620,36 @@
 #### Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution
 - 论文链接：https://aclanthology.org/2021.acl-long.539.pdf
 - 代码链接：https://github.com/jiacheng-xu/sum-interpret
-
+#### Learning Prototypical Functions for Physical Artifacts
+- 论文链接：https://aclanthology.org/2021.acl-long.540.pdf
+- 代码链接：https://github.com/tyjiangU/physical_artifacts_function
+#### Verb Knowledge Injection for Multilingual Event Processing
+- 论文链接：https://aclanthology.org/2021.acl-long.541.pdf
+- 代码链接：--
+#### Dynamic Contextualized Word Embeddings
+- 论文链接：https://aclanthology.org/2021.acl-long.542.pdf
+- 代码链接：https://github.com/valentinhofmann/dcwe
+#### Lexical Semantic Change Discovery
+- 论文链接：https://aclanthology.org/2021.acl-long.543.pdf
+- 代码链接：https://github.com/seinan9/LSCDiscovery
+####  The R-U-A-Robot Dataset: Helping Avoid Chatbot Deception by Detecting User Questions About Human or Non-Human Identity
+- 论文链接：https://aclanthology.org/2021.acl-long.544.pdf
+- 代码链接：--
+#### Using Meta-Knowledge Mined from Identifiers to Improve Intent Recognition in Conversational Systems
+- 论文链接：https://aclanthology.org/2021.acl-long.545.pdf
+- 代码链接：--
+#### Space Efficient Context Encoding for Non-Task-Oriented Dialogue Generation with Graph Attention Transformer
+- 论文链接：https://aclanthology.org/2021.acl-long.546.pdf
+- 代码链接：https://github.com/fabiangal/space-efficient-context-encoding-acl21
+#### DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations
+- 论文链接：https://aclanthology.org/2021.acl-long.547.pdf
+- 代码链接：https://github.com/zerohd4869/DialogueCRN
+#### Cross-replication Reliability - An Empirical Approach to Interpreting Inter-rater Reliability
+- 论文链接：https://aclanthology.org/2021.acl-long.548.pdf
+- 代码链接：https://github. com/google-research-datasets/
+#### TIMEDIAL: Temporal Commonsense Reasoning in Dialog
+- 论文链接：https://aclanthology.org/2021.acl-long.549.pdf
+- 代码链接：https://github.com/google-research-datasets/timedial
+#### RAW-C: Relatedness of Ambiguous Words—in Context (A New Lexical Resource for English)
+- 论文链接：https://aclanthology.org/2021.acl-long.550.pdf
+- 代码链接：https://github.com/seantrott/raw-c
