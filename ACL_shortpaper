@@ -1,0 +1,61 @@
+#### Catchphrase: Automatic Detection of Cultural References
+- 论文链接：https://aclanthology.org/2021.acl-short.1.pdf
+- 代码链接：https://github.com/sweedy12/CATCHPHRASE
+#### On Training Instance Selection for Few-Shot Neural Text Generation
+- 论文链接：https://aclanthology.org/2021.acl-short.2.pdf
+- 代码链接：https://gitlab.com/erniecyc/few-selector
+#### Coreference Resolution without Span Representations
+- 论文链接：https://aclanthology.org/2021.acl-short.3.pdf
+- 代码链接：Coreference Resolution without Span Representations
+#### Enhancing Entity Boundary Detection for Better Chinese Named Entity Recognition
+- 论文链接：https://aclanthology.org/2021.acl-short.4.pdf
+- 代码链接：https://github.com/cchen-reese/Boundary-Enhanced-NER
+#### Difficulty-Aware Machine Translation Evaluation
+- 论文链接：https://aclanthology.org/2021.acl-short.5.pdf
+- 代码链接：https://github.com/NLP2CT/Difficulty-Aware-MT-Evaluation
+#### Uncertainty and Surprisal Jointly Deliver the Punchline: Exploiting Incongruity-Based Features for Humor Recognition
+- 论文链接：https://aclanthology.org/2021.acl-short.6.pdf
+- 代码链接：--
+#### Counterfactuals to Control Latent Disentangled Text Representations for Style Transfer
+- 论文链接：https://aclanthology.org/2021.acl-short.7.pdf
+- 代码链接：--
+#### Attention Flows are Shapley Value Explanations
+- 论文链接：https://aclanthology.org/2021.acl-short.8.pdf
+- 代码链接：--
+#### Video Paragraph Captioning as a Text Summarization Task
+- 论文链接：https://aclanthology.org/2021.acl-short.9.pdf
+- 代码链接：--
+#### Are VQA Systems RAD?Measuring Robustness to Augmented Data with Focused Interventions
+- 论文链接：https://aclanthology.org/2021.acl-short.10.pdf
+- 代码链接：https://danrosenberg.github.io/rad-measure/
+#### How Helpful is Inverse Reinforcement Learning for Table-to-Text Generation?
+- 论文链接：https://aclanthology.org/2021.acl-short.11.pdf
+- 代码链接：https://github.com/issacqzh/IRL_Table2Text
+#### Automatic Fake News Detection: Are Models Learning to Reason?
+- 论文链接：https://aclanthology.org/2021.acl-short.12.pdf
+- 代码链接：https://github.com/casperhansen/fake-news-reasoning
+#### Saying No is An Art: Contextualized Fallback Responses for Unanswerable Dialogue Queries
+- 论文链接：https://aclanthology.org/2021.acl-short.13.pdf
+- 代码链接：--
+#### N-Best ASR Transformer: Enhancing SLU Performance using Multiple ASR Hypotheses
+- 论文链接：https://aclanthology.org/2021.acl-short.14.pdf
+- 代码链接： https://github.com/Vernacular-ai/N-Best-ASR-Transformer
+#### Gender Bias Amplification During Speed-Quality Optimization in Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-short.15.pdf
+- 代码链接：--
+#### Machine Translation into Low-resource Language Varieties
+- 论文链接：https://aclanthology.org/2021.acl-short.16.pdf
+- 代码链接：https://github.com/Sachin19/seq2seq-con
+#### Is Sparse Attention more Interpretable?
+- 论文链接：https://aclanthology.org/2021.acl-short.17.pdf
+- 代码链接：--
+#### The Case for Translation-Invariant Self-Attention in Transformer-Based Language Models
+- 论文链接：https://aclanthology.org/2021.acl-short.18.pdf
+- 代码链接：https://github.com/nyu-mll/jiant/blob/ master/guides/tasks/supported_tasks.md
+- 代码链接：https://github.com/ulmewennberg/tisa
+#### Relative Importance in Sentence Processing
+- 论文链接：https://aclanthology.org/2021.acl-short.19.pdf
+- 代码链接：https://github.com/beinborn/relative_importance
+#### Doing Good or Doing Right?Exploring the Weakness of Commonsense Causal Reasoning Models
+- 论文链接：https://aclanthology.org/2021.acl-short.20.pdf
+- 代码链接：--
