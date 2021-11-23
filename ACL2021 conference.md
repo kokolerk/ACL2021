@@ -1560,3 +1560,64 @@
 #### End-to-End Training of Neural Retrievers for Open-Domain Question Answering
 - 论文链接：https://aclanthology.org/2021.acl-long.519.pdf
 - 代码链接：https://github.com/NVIDIA/Megatron-LM
+#### Question Answering Over Temporal Knowledge Graphs
+- 论文链接：https://aclanthology.org/2021.acl-long.520.pdf
+- 代码链接：https://github.com/apoorvumang/CronKGQA
+#### Language Model Augmented Relevance Score
+- 论文链接：https://aclanthology.org/2021.acl-long.521.pdf
+- 代码链接：--
+#### DEXPERTS: Decoding-Time Controlled Text Generation with Experts and Anti-Experts
+- 论文链接：https://aclanthology.org/2021.acl-long.522.pdf
+- 代码链接：https://github.com/alisawuffles/DExperts
+#### Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models
+- 论文链接：https://aclanthology.org/2021.acl-long.523.pdf
+- 代码链接：https://github.com/tongshuangwu/polyjuice
+#### Metaphor Generation with Conceptual Mappings
+- 论文链接：https://aclanthology.org/2021.acl-long.524.pdf
+- 代码链接：https://github.com/UKPLab/acl2021-metaphor-generation-conceptual
+#### Learning Latent Structures for Cross Action Phrase Relations in Wet Lab Protocols
+- 论文链接：https://aclanthology.org/2021.acl-long.525.pdf
+- 代码链接：--
+#### Multimodal Multi-Speaker Merger & Acquisition Financial Modeling: A New Task, Dataset, and Neural Baselines
+- 论文链接：https://aclanthology.org/2021.acl-long.526.pdf
+- 代码链接： https://github.com/midas-research/m3a-acl
+#### Mid-Air Hand Gestures for Post-Editing of Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.527.pdf
+- 代码链接：--
+#### Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning
+- 论文链接：https://aclanthology.org/2021.acl-long.528.pdf
+- 代码链接： https://lupantech.github.io/inter-gps
+#### Joint Verification and Reranking for Open Fact Checking Over Tables
+- 论文链接：https://aclanthology.org/2021.acl-long.529.pdf
+- 代码链接：https://github.com/facebookresearch/OpenTableFactChecking
+#### Evaluation of Thematic Coherence in Microblogs
+- 论文链接：https://aclanthology.org/2021.acl-long.530.pdf
+- 代码链接：--
+#### Neural semi-Markov CRF for Monolingual Word Alignment
+- 论文链接：https://aclanthology.org/2021.acl-long.531.pdf
+- 代码链接：https://github.com/chaojiang06/neural-Jacana
+#### Privacy at Scale: Introducing the PrivaSeer Corpus of Web Privacy Policies
+- 论文链接：https://aclanthology.org/2021.acl-long.532.pdf
+- 代码链接：https://privaseer.ist.psu.edu/
+#### The statistical advantage of automatic NLG metrics at the system level
+- 论文链接：https://aclanthology.org/2021.acl-long.533.pdf
+- 代码链接：https://github.com/johntzwei/metric-statistical-advantage
+#### Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion
+- 论文链接：https://aclanthology.org/2021.acl-long.534.pdf
+- 代码链接：https://github.com/TaoMiner/inferwiki
+#### ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining
+- 论文链接：https://aclanthology.org/2021.acl-long.535.pdf
+- 代码链接：https://github.com/Yale-LILY/ConvoSumm
+#### Improving Factual Consistency of Abstractive Summarization via Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.536.pdf
+- 代码链接：--
+#### EMAILSUM: Abstractive Email Thread Summarization
+- 论文链接：https://aclanthology.org/2021.acl-long.537.pdf
+- 代码链接：https://github.com/ZhangShiyue/EmailSum
+#### Cross-Lingual Abstractive Summarization with Limited Parallel Resources
+- 论文链接：https://aclanthology.org/2021.acl-long.538.pdf
+- 代码链接：https://github.com/WoodenWhite/MCLAS
+#### Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution
+- 论文链接：https://aclanthology.org/2021.acl-long.539.pdf
+- 代码链接：https://github.com/jiacheng-xu/sum-interpret
+
