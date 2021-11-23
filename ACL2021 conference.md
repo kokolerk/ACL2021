@@ -1259,6 +1259,66 @@
 #### On Sample Based Explanation Methods for NLP: Efficiency, Faithfulness, and Semantic Evaluation
 - 论文链接：https://aclanthology.org/2021.acl-long.419.pdf
 - 代码链接：--
+#### Syntax-Enhanced Pre-trained Model
+- 论文链接：https://aclanthology.org/2021.acl-long.420.pdf
+- 代码链接：https://github.com/Hi-ZenanXu/Syntax-Enhanced_Pre-trained_Model
+#### Matching Distributions between Model and Data: Cross-domain Knowledge Distillation for Unsupervised Domain Adaptation
+- 论文链接：https://aclanthology.org/2021.acl-long.421.pdf
+- 代码链接：--
+#### Counterfactual Inference for Text Classification Debiasing
+- 论文链接：https://aclanthology.org/2021.acl-long.422.pdf
+- 代码链接：https://github.com/qianc62/Corsair
+#### HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation
+- 论文链接：https://aclanthology.org/2021.acl-long.423.pdf
+- 代码链接：--
+#### PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity
+- 论文链接：https://aclanthology.org/2021.acl-long.424.pdf
+- 代码链接： https://github.com/JulySinceAndrew/PP-Rec
+#### Article Reranking by Memory-Enhanced Key Sentence Matching for Detecting Previously Fact-Checked Claims
+- 论文链接：https://aclanthology.org/2021.acl-long.425.pdf
+- 代码链接：https://github.com/ICTMCG/MTM
+#### Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble
+- 论文链接：https://aclanthology.org/2021.acl-long.426.pdf
+- 代码链接：--
+#### Shortformer: Better Language Modeling Using Shorter Inputs
+- 论文链接：https://aclanthology.org/2021.acl-long.427.pdf
+- 代码链接：https://github.com/ofirpress/shortformer
+#### BanditMTL: Bandit-based Multi-task Learning for Text Classification
+- 论文链接：https://aclanthology.org/2021.acl-long.428.pdf
+- 代码链接：--
+#### Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding
+- 论文链接：https://aclanthology.org/2021.acl-long.429.pdf
+- 代码链接：https://github.com/kamigaito/acl2021kge
+#### De-Confounded Variational Encoder-Decoder for Logical Table-to-Text Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.430.pdf
+- 代码链接：--
+#### Rethinking Stealthiness of Backdoor Attack against NLP Models
+- 论文链接：https://aclanthology.org/2021.acl-long.431.pdf
+- 代码链接：https://github.com/lancopku/SOS
+#### Crowdsourcing Learning as Domain Adaptation: A Case Study on Named Entity Recognition
+- 论文链接：https://aclanthology.org/2021.acl-long.432.pdf
+- 代码链接：--
+#### Exploring Distantly-Labeled Rationales in Neural Network Models
+- 论文链接：https://aclanthology.org/2021.acl-long.433.pdf
+- 代码链接：--
+#### Learning to Perturb Word Embeddings for Out-of-distribution QA
+- 论文链接：https://aclanthology.org/2021.acl-long.434.pdf
+- 代码链接：--
+#### Maria: A Visual Experience Powered Conversational Agent
+- 论文链接：https://aclanthology.org/2021.acl-long.435.pdf
+- 代码链接：--
+#### A Human-machine Collaborative Framework for Evaluating Malevolence in Dialogues
+- 论文链接：https://aclanthology.org/2021.acl-long.436.pdf
+- 代码链接：https://github.com/repozhang/CaSE_HMCEval
+#### Generating Relevant and Coherent Dialogue Responses using Self-separated Conditional Variational AutoEncoders
+- 论文链接：https://aclanthology.org/2021.acl-long.437.pdf
+- 代码链接：--
+#### Learning to Ask Conversational Questions by Optimizing Levenshtein Distance
+- 论文链接：https://aclanthology.org/2021.acl-long.438.pdf
+- 代码链接：https://github.com/LZKSKY/CaSE_RISE
+#### DVD: A Diagnostic Dataset for Multi-step Reasoning in Video Grounded Dialogue
+- 论文链接：https://aclanthology.org/2021.acl-long.439.pdf
+- 代码链接：--
 ####
 - 论文链接
 - 代码链接
