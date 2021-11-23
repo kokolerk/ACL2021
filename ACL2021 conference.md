@@ -1169,6 +1169,36 @@
 #### VisualSparta: An Embarrassingly Simple Approach to Large-scale Text-to-Image Search with Weighted Bag-of-words
 - 论文链接：https://aclanthology.org/2021.acl-long.389.pdf
 - 代码链接：--
+#### Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision
+- 论文链接：https://aclanthology.org/2021.acl-long.390.pdf
+- 代码链接：https://github.com/thunlp/MetaAdaptRan
+#### Semi-Supervised Text Classification with Balanced Deep Representation Distributions
+- 论文链接：https://aclanthology.org/2021.acl-long.391.pdf
+- 代码链接：--
+#### Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval
+- 论文链接：https://aclanthology.org/2021.acl-long.392.pdf
+- 代码链接： https://github.com/microsoft/ANCE
+#### ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer
+- 论文链接：https://aclanthology.org/2021.acl-long.393.pdf
+- 代码链接：https://github.com/yym6472/ConSERT
+#### Exploring Dynamic Selection of Branch Expansion Orders for Code Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.394.pdf
+- 代码链接：https://github.com/DeepLearnXMU/CG-RL
+#### COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story Completion
+- 论文链接：https://aclanthology.org/2021.acl-long.395.pdf
+- 代码链接：https://github.com/Heidelberg-NLP/COINS
+#### Reasoning over Entity-Action-Location Graph for Procedural Text Understanding
+- 论文链接：https://aclanthology.org/2021.acl-long.396.pdf
+- 代码链接：--
+#### From Paraphrasing to Semantic Parsing: Unsupervised Semantic Parsing via Synchronous Semantic Decoding
+- 论文链接：https://aclanthology.org/2021.acl-long.397.pdf
+- 代码链接：https://github.com/lingowu/ssd
+#### Pre-training Universal Language Representation
+- 论文链接：https://aclanthology.org/2021.acl-long.398.pdf
+- 代码链接：https://github.com/Liyianan/ULR
+#### Structural Pre-training for Dialogue Comprehensio
+- 论文链接：https://aclanthology.org/2021.acl-long.399.pdf
+- 代码链接：https://aclanthology.org/2021.acl-long.399.pdf
 ####
 - 论文链接
 - 代码链接
