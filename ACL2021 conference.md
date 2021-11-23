@@ -1500,3 +1500,63 @@
 #### Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence
 - 论文链接：https://aclanthology.org/2021.acl-long.499.pdf
 - 代码链接：https://github.com/thu-coai/HINT
+#### OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics
+- 论文链接：https://aclanthology.org/2021.acl-long.500.pdf
+- 代码链接：https://github.com/thu-coai/OpenMEVA
+####  DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation
+- 论文链接：https://aclanthology.org/2021.acl-long.501.pdf
+- 代码链接：--
+#### Controllable Open-ended Question Generation with A New Question Type Ontology
+- 论文链接：https://aclanthology.org/2021.acl-long.502.pdf
+- 代码链接：https://shuyangcao.github.io/projects/ontology_ open_ended_question
+#### BERTGEN: Multi-task Generation through BERT
+- 论文链接：https://aclanthology.org/2021.acl-long.503.pdf
+- 代码链接：--
+#### Selective Knowledge Distillation for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.504.pdf
+- 代码链接：https://github.com/LeslieOverfitting/selective_distillation
+#### Measuring and Increasing Context Usage in Context-Aware Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-long.505.pdf
+- 代码链接：https://github.com/neulab/contextual-mt
+#### Beyond Offline Mapping:Learning Cross-lingual Word Embeddings through Context Anchoring
+- 论文链接：https://aclanthology.org/2021.acl-long.506.pdf
+- 代码链接：--
+#### CCMatrix:Mining Billions of High-Quality Parallel Sentences on the Web
+- 论文链接：https://aclanthology.org/2021.acl-long.507.pdf
+- 代码链接：--
+#### Length-Adaptive Transformer:Train Once with Length Drop, Use Anytime with Search
+- 论文链接：https://aclanthology.org/2021.acl-long.508.pdf
+- 代码链接：https://github.com/clovaai/length-adaptive-transformer
+#### GhostBERT: Generate More Features with Cheap Operations for BERT
+- 论文链接：https://aclanthology.org/2021.acl-long.509.pdf
+- 代码链接：https://gitee.com/mindspore/mindspore/tree/master/model_zoo/research/nlp/ghostbert
+#### Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization
+- 论文链接：https://aclanthology.org/2021.acl-long.510.pdf
+- 代码链接：https://github.com/cliang1453/super-structured-lottery-tickets
+#### A Novel Estimator of Mutual Information for Learning to Disentangle Textual Representations
+- 论文链接：https://aclanthology.org/2021.acl-long.511.pdf
+- 代码链接：--
+#### Determinantal Beam Search
+- 论文链接：https://aclanthology.org/2021.acl-long.512.pdf
+- 代码链接：https://github.com/pytorch/fairseq/tree/master/examples/translation
+#### Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning
+- 论文链接：https://aclanthology.org/2021.acl-long.513.pdf
+- 代码链接：https://github.com/MathIsAll/HDGCN-pytorch
+#### Accelerating Text Communication via Abbreviated Sentence Input
+- 论文链接：https://aclanthology.org/2021.acl-long.514.pdf
+- 代码链接：--
+#### Regression Bugs Are In Your Model!Measuring, Reducing and Analyzing Regressions In NLP Model Updates
+- 论文链接：https://aclanthology.org/2021.acl-long.515.pdf
+- 代码链接：--
+#### Detecting Propaganda Techniques in Memes
+- 论文链接：https://aclanthology.org/2021.acl-long.516.pdf
+- 代码链接：https://github.com/di-dimitrov/propaganda-techniques-in-memes
+#### On the Efficacy of Adversarial Data Collection for Question Answering: Results from a Large-Scale Randomized Study
+- 论文链接：https://aclanthology.org/2021.acl-long.517.pdf
+- 代码链接：https://github.com/facebookresearch/aqa-study
+#### Learning Dense Representations of Phrases at Scale
+- 论文链接：https://aclanthology.org/2021.acl-long.518.pdf
+- 代码链接：https://github.com/princeton-nlp/DensePhrases
+#### End-to-End Training of Neural Retrievers for Open-Domain Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-long.519.pdf
+- 代码链接：https://github.com/NVIDIA/Megatron-LM
