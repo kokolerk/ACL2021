@@ -1198,7 +1198,67 @@
 - 代码链接：https://github.com/Liyianan/ULR
 #### Structural Pre-training for Dialogue Comprehensio
 - 论文链接：https://aclanthology.org/2021.acl-long.399.pdf
-- 代码链接：https://aclanthology.org/2021.acl-long.399.pdf
+- 代码链接：--
+#### AutoTinyBERT: Automatic Hyper-parameter Optimization for Efficient Pre-trained Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.400.pdf
+- 代码链接：https://github.com/huawei-noah/Pretrained-Language-Model
+#### Data Augmentation with Adversarial Training for Cross-Lingual NLI
+- 论文链接：https://aclanthology.org/2021.acl-long.401.pdf
+- 代码链接：--
+#### Bootstrapped Unsupervised Sentence Representation Learning
+- 论文链接：https://aclanthology.org/2021.acl-long.402.pdf
+- 代码链接：https://github.com/yanzhangnlp/BSL
+#### Learning Event Graph Knowledge for Abductive Reasoning
+- 论文链接：https://aclanthology.org/2021.acl-long.403.pdf
+- 代码链接：https://github.com/sjcfr/ege-RoBERTa
+#### A Cognitive Regularizer for Language Modeling
+- 论文链接：https://aclanthology.org/2021.acl-long.404.pdf
+- 代码链接：--
+#### Lower Perplexity is Not Always Human-Like
+- 论文链接：https://aclanthology.org/2021.acl-long.405.pdf
+- 代码链接：https://github.com/kuribayashi4/surprisal_reading_time_en_ja
+#### Word Sense Disambiguation: Towards Interactive Context Exploitation from Both Word and Sense Perspectives
+- 论文链接：https://aclanthology.org/2021.acl-long.406.pdf
+- 代码链接：https://github.com/lwmlyy/SACE
+#### A Knowledge-Guided Framework for Frame Identification
+- 论文链接：https://aclanthology.org/2021.acl-long.407.pdf
+- 代码链接：--
+#### Obtaining Better Static Word Embeddings Using Contextual Embedding Models
+- 论文链接：https://aclanthology.org/2021.acl-long.408.pdf
+- 代码链接：https://github.com/epfml/X2Static
+#### Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation
+- 论文链接：https://aclanthology.org/2021.acl-long.409.pdf
+- 代码链接：https://github.com/YDU-uva/VSM_W
+#### LEXFIT: Lexical Fine-Tuning of Pretrained Language Models
+- 论文链接：https://aclanthology.org/2021.acl-long.410.pdf
+- 代码链接：https://github.com/cambridgeltl/lexfit
+#### Text-Free Image-to-Speech Synthesis Using Learned Segmental Units
+- 论文链接：https://aclanthology.org/2021.acl-long.411.pdf
+- 代码链接：--
+#### CTFN: Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network
+- 论文链接：https://aclanthology.org/2021.acl-long.412.pdf
+- 代码链接：https://github.com/deepsuperviser/CTFN
+#### Positional Artefacts Propagate Through Masked Language Model Embeddings
+- 论文链接：https://aclanthology.org/2021.acl-long.413.pdf
+- 代码链接：--
+#### Language Model Evaluation Beyond Perplexity
+- 论文链接：https://aclanthology.org/2021.acl-long.414.pdf
+- 代码链接：--
+#### Learning to Explain: Generating Stable Explanations Fast
+- 论文链接：https://aclanthology.org/2021.acl-long.415.pdf
+- 代码链接：https://github.com/situsnow/L2E
+#### StereoSet: Measuring stereotypical bias in pretrained language models
+- 论文链接：https://aclanthology.org/2021.acl-long.416.pdf
+- 代码链接：https://stereoset.mit.edu
+#### Alignment Rationale for Natural Language Inference
+- 论文链接：https://aclanthology.org/2021.acl-long.417.pdf
+- 代码链接： https://github.com/changmenseng/arec
+#### Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators
+- 论文链接：https://aclanthology.org/2021.acl-long.418.pdf
+- 代码链接： https://github.com/RUCAIBox/MPOP
+#### On Sample Based Explanation Methods for NLP: Efficiency, Faithfulness, and Semantic Evaluation
+- 论文链接：https://aclanthology.org/2021.acl-long.419.pdf
+- 代码链接：--
 ####
 - 论文链接
 - 代码链接
