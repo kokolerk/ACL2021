@@ -2020,4 +2020,30 @@
 #### Towards Visual Question Answering on Pathology Images
 - 论文链接：https://aclanthology.org/2021.acl-short.90.pdf
 - 代码链接：https://github.com/UCSD-AI4H/PathVQA
-
+#### Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations
+- 论文链接：https://aclanthology.org/2021.acl-short.91.pdf
+- 代码链接：--
+#### MTVR: Multilingual Moment Retrieval in Videos
+- 论文链接：https://aclanthology.org/2021.acl-short.92.pdf
+- 代码链接：https://github.com/jayleicn/mTVRetrieval
+#### Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition
+- 论文链接：https://aclanthology.org/2021.acl-short.93.pdf
+- 代码链接：https://github.com/brickee/EnRel-G
+#### Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction
+- 论文链接：https://aclanthology.org/2021.acl-short.94.pdf
+- 代码链接：https://github.com/wns823/NMT_SSP
+#### Quotation Recommendation and Interpretation Based on Transformation from Queries to Quotations
+- 论文链接：https://aclanthology.org/2021.acl-short.95.pdf
+- 代码链接：https://github.com/Lingzhi-WANG/Quotation-Recommendation
+#### Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence
+- 论文链接：https://aclanthology.org/2021.acl-short.96.pdf
+- 代码链接：https://github.com/MilaNLProc/contextualized-topic-models
+#### Input Representations for Parsing Discourse Representation Structures: Comparing English with Chinese
+- 论文链接：https://aclanthology.org/2021.acl-short.97.pdf
+- 代码链接：https://github.com/wangchunliu/Chinese-DRS-data
+#### Code Generation from Natural Language with Less Prior and More Monolingual Data
+- 论文链接：https://aclanthology.org/2021.acl-short.98.pdf
+- 代码链接：https://github.com/BorealisAI/code-gen-TAE
+#### Issues with Entailment-based Zero-shot Text Classification
+- 论文链接：https://aclanthology.org/2021.acl-short.99.pdf
+- 代码链接：--
