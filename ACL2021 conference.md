@@ -1957,5 +1957,67 @@
 #### When is Char Better Than Subword: A Systematic Study of Segmentation Algorithms for Neural Machine Translation
 - 论文链接：https://aclanthology.org/2021.acl-short.69.pdf
 - 代码链接：--
-
+#### More than Text: Multi-modal Chinese Word Segmentation
+- 论文链接：https://aclanthology.org/2021.acl-short.70.pdf
+- 代码链接：--
+#### A Mixture-of-Experts Model for Antonym-Synonym Discrimination
+- 论文链接：https://aclanthology.org/2021.acl-short.71.pdf
+- 代码链接：https://github.com/Zengnan1997/MoE-ASD
+#### Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking
+- 论文链接：https://aclanthology.org/2021.acl-short.72.pdf
+- 代码链接：--
+#### A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space
+- 论文链接：https://aclanthology.org/2021.acl-short.73.pdf
+- 代码链接：https://github.com/Sara-Rajaee/clusterbased_isotropy_enhancement/
+#### Unsupervised Enrichment of Persona-grounded Dialog with Background Stories
+- 论文链接：https://aclanthology.org/2021.acl-short.74.pdf
+- 代码链接：https://github.com/majumderb/pabst
+#### Beyond Laurel/Yanny: An Autoencoder-Enabled Search for Polyperceivable Audio
+- 论文链接：https://aclanthology.org/2021.acl-short.75.pdf
+- 代码链接：--
+#### Don’t Let Discourse Confine Your Model: Sequence Perturbations for Improved Event Language Models
+- 论文链接：https://aclanthology.org/2021.acl-short.76.pdf
+- 代码链接：https://github.com/StonyBrookNLP/elm-perturbations
+#### The Curse of Dense Low-Dimensional Information Retrieval for Large Index Sizes
+- 论文链接：https://aclanthology.org/2021.acl-short.77.pdf
+- 代码链接：--
+#### Cross-lingual Text Classification with Heterogeneous Graph Neural Network
+- 论文链接：https://aclanthology.org/2021.acl-short.78.pdf
+- 代码链接：https://github.com/TencentGameMate/gnn_cross_lingual
+#### Towards More Equitable Question Answering Systems: How Much More Data Do You Need?
+- 论文链接：https://aclanthology.org/2021.acl-short.79.pdf
+- 代码链接：https://github.com/NavidRajabi/EMQA
+#### Embedding Time Differences in Context-sensitive Neural Networks for Learning Time to Event
+- 论文链接：https://aclanthology.org/2021.acl-short.80.pdf
+- 代码链接： https://github.com/hajipoor/time2event
+#### Improving Compositional Generalization in Classification Tasks via Structure Annotations
+- 论文链接：https://aclanthology.org/2021.acl-short.81.pdf
+- 代码链接：--
+#### Learning to Generate Task-Specific Adapters from Task Description
+- 论文链接：https://aclanthology.org/2021.acl-short.82.pdf
+- 代码链接：https://github.com/INK- USC/hypter
+#### QA-Driven Zero-shot Slot Filling with Weak Supervision Pretraining
+- 论文链接：https://aclanthology.org/2021.acl-short.83.pdf
+- 代码链接：https://github.com/google-research/bert/ blob/master/run_squad.py
+#### Domain-Adaptive Pretraining Methods for Dialogue Understanding
+- 论文链接：https://aclanthology.org/2021.acl-short.84.pdf
+- 代码链接：--
+#### Targeting the Benchmark: On Methodology in Current Natural Language Processing Research
+- 论文链接：https://aclanthology.org/2021.acl-short.85.pdf
+- 代码链接：--
+#### X-FACT: A New Benchmark Dataset for Multilingual Fact Checking
+- 论文链接：https://aclanthology.org/2021.acl-short.86.pdf
+- 代码链接：--
+#### nmT5 - Is parallel data still relevant for pre-training massively multilingual language models?
+- 论文链接：https://aclanthology.org/2021.acl-short.87.pdf
+- 代码链接：--
+#### Question Generation for Adaptive Education
+- 论文链接：https://aclanthology.org/2021.acl-short.88.pdf
+- 代码链接：https://github.com/meghabyte/acl2021-education
+#### A Simple Recipe for Multilingual Grammatical Error Correction
+- 论文链接：https://aclanthology.org/2021.acl-short.89.pdf
+- 代码链接：https://github.com/google-research-datasets/clang8
+#### Towards Visual Question Answering on Pathology Images
+- 论文链接：https://aclanthology.org/2021.acl-short.90.pdf
+- 代码链接：https://github.com/UCSD-AI4H/PathVQA
 
