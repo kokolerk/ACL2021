@@ -1810,5 +1810,70 @@
 #### Doing Good or Doing Right?Exploring the Weakness of Commonsense Causal Reasoning Models
 - 论文链接：https://aclanthology.org/2021.acl-short.20.pdf
 - 代码链接：--
-
+#### How Helpful is Inverse Reinforcement Learning for Table-to-Text Generation?
+- 论文链接：https://aclanthology.org/2021.acl-short.21.pdf
+- 代码链接：https://github.com/issacqzh/IRL_Table2Text
+#### Enforcing Consistency in Weakly Supervised Semantic Parsing
+- 论文链接：https://aclanthology.org/2021.acl-short.22.pdf
+- 代码链接： https://www.github.com/nitishgupta/allennlp-semparse/tree/nlvr-v2/scripts/nlvr_v2
+#### An Improved Model for Voicing Silent Speech
+- 论文链接：https://aclanthology.org/2021.acl-short.23.pdf
+- 代码链接：https://github.com/dgaddy/silent_speech
+#### What’s in the Box?A Preliminary Analysis of Undesirable Content in the Common Crawl Corpus
+- 论文链接：https://aclanthology.org/2021.acl-short.24.pdf
+- 代码链接：https://github.com/josephdviviano/whatsinthebox
+#### Continual Quality Estimation with Online Bayesian Meta-Learning
+- 论文链接：https://aclanthology.org/2021.acl-short.25.pdf
+- 代码链接：--
+#### A Span-based Dynamic Local Attention Model for Sequential Sentence Classification
+- 论文链接：https://aclanthology.org/2021.acl-short.26.pdf
+- 代码链接：--
+#### How effective is BERT without word ordering? Implications for language understanding and data privacy
+- 论文链接：https://aclanthology.org/2021.acl-short.27.pdf
+- 代码链接：--
+#### WikiSum: Coherent Summarization Dataset for Efficient Human-Evaluation
+- 论文链接：https://aclanthology.org/2021.acl-short.28.pdf
+- 代码链接：https://registry.opendata.aws/wikisum
+#### UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning
+- 论文链接：https://aclanthology.org/2021.acl-short.29.pdf
+- 代码链接：https://github.com/hwanheelee1993/UMIC
+#### Anchor-based Bilingual Word Embeddings for Low-Resource Languages
+- 论文链接：https://aclanthology.org/2021.acl-short.30.pdf
+- 代码链接：--
+#### Multilingual Agreement for Multilingual Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-short.31.pdf
+- 代码链接：--
+#### Higher-order Derivatives of Weighted Finite-state Machines
+- 论文链接：https://aclanthology.org/2021.acl-short.32.pdf
+- 代码链接：https://github.com/rycolab/wfsm
+#### Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards
+- 论文链接：https://aclanthology.org/2021.acl-short.33.pdf
+- 代码链接：https://github.com/shwetanlp/CHQ-Summ
+#### A Semantics-aware Transformer Model of Relation Linking for Knowledge Base Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-short.34.pdf
+- 代码链接：--
+#### Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation
+- 论文链接：https://aclanthology.org/2021.acl-short.35.pdf
+- 代码链接：--
+#### Enhancing Descriptive Image Captioning with Natural Language Inference
+- 论文链接：https://aclanthology.org/2021.acl-short.36.pdf
+- 代码链接：https://github.com/Gitsamshi/Nli-image-caption
+#### MOLEMAN: Mention-Only Linking of Entities with a Mention Annotation Network
+- 论文链接：https://aclanthology.org/2021.acl-short.37.pdf
+- 代码链接：--
+#### eMLM: A New Pre-training Objective for Emotion Related Tasks
+- 论文链接：https://aclanthology.org/2021.acl-short.38.pdf
+- 代码链接：https://github.com/tsosea2/eMLM
+#### On Positivity Bias in Negative Reviews
+- 论文链接：https://aclanthology.org/2021.acl-short.39.pdf
+- 代码链接：https://github.com/madhu-aithal/Positivity-Bias-in-Negative-Reviews
+#### PRAL: A Tailored Pre-Training Model for Task-Oriented Dialog Generation
+- 论文链接：https://aclanthology.org/2021.acl-short.40.pdf
+- 代码链接：--
+#### ROPE: Reading Order Equivariant Positional Encoding for Graph-based Document Information Extraction
+- 论文链接：https://aclanthology.org/2021.acl-short.41.pdf
+- 代码链接：--
+#### Zero-shot Event Extraction via Transfer Learning: Challenges and Insights
+- 论文链接：https://aclanthology.org/2021.acl-short.42.pdf
+- 代码链接：--
 
