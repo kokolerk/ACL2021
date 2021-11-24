@@ -1876,4 +1876,86 @@
 #### Zero-shot Event Extraction via Transfer Learning: Challenges and Insights
 - 论文链接：https://aclanthology.org/2021.acl-short.42.pdf
 - 代码链接：--
+#### Using Adversarial Attacks to Reveal the Statistical Bias in Machine Reading Comprehension Models
+- 论文链接：https://aclanthology.org/2021.acl-short.43.pdf
+- 代码链接：--
+#### Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing
+- 论文链接：https://aclanthology.org/2021.acl-short.44.pdf
+- 代码链接：--
+#### Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia
+- 论文链接：https://aclanthology.org/2021.acl-short.45.pdf
+- 代码链接：https://github.com/rujunhan/EMNLP-2019
+#### Modeling Task-Aware MIMO Cardinality for Efficient Multilingual Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-short.46.pdf
+- 代码链接：--
+#### Adaptive Nearest Neighbor Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-short.47.pdf
+- 代码链接：https://github.com/zhengxxn/adaptive-knn-mt
+#### On Orthogonality Constraints for Transformers
+- 论文链接：https://aclanthology.org/2021.acl-short.48.pdf
+- 代码链接：--
+#### Measuring and Improving BERT’s Mathematical Abilities by Predicting the Order of Reasoning
+- 论文链接：https://aclanthology.org/2021.acl-short.49.pdf
+- 代码链接：--
+#### Happy Dance, Slow Clap:Using Reaction GIFs to Predict Induced Affect on Twitter
+- 论文链接：https://aclanthology.org/2021.acl-short.50.pdf
+- 代码链接：--
+#### Exploring Listwise Evidence Reasoning with T5 for Fact Verification
+- 论文链接：https://aclanthology.org/2021.acl-short.51.pdf
+- 代码链接：--
+#### DefSent: Sentence Embeddings using Definition Sentences
+- 论文链接：https://aclanthology.org/2021.acl-short.52.pdf
+- 代码链接：https://github.com/hpprc/defsent
+#### Discrete Cosine Transform as Universal Sentence Encoder
+- 论文链接：https://aclanthology.org/2021.acl-short.53.pdf
+- 代码链接：--
+#### AligNarr: Aligning Narratives on Movies
+- 论文链接：https://aclanthology.org/2021.acl-short.54.pdf
+- 代码链接：--
+#### An Exploratory Analysis of Multilingual Word-Level Quality Estimation with Cross-Lingual Transformers
+- 论文链接：https://aclanthology.org/2021.acl-short.55.pdf
+- 代码链接：--
+#### Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models
+- 论文链接：https://aclanthology.org/2021.acl-short.56.pdf
+- 代码链接： https://github.com/FDChongli/TwoWaysToImproveCSC
+#### Training Adaptive Computation for Open-Domain Question Answering with Computational Constraints
+- 论文链接：https://aclanthology.org/2021.acl-short.57.pdf
+- 代码链接：https://github.com/uclnlp/APE
+#### An Empirical Study on Adversarial Attack on NMT: Languages and Positions Matter
+- 论文链接：https://aclanthology.org/2021.acl-short.58.pdf
+- 代码链接：--
+#### OntoGUM: Evaluating Contextualized SOTA Coreference Resolution on 12 More Genres
+- 论文链接：https://aclanthology.org/2021.acl-short.59.pdf
+- 代码链接：https://github.com/yilunzhu/ontogum
+#### In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-short.60.pdf
+- 代码链接：https://github.com/ChenRocks/UNITER
+#### Zero-shot Fact Verification by Claim Generation
+- 论文链接：https://aclanthology.org/2021.acl-short.61.pdf
+- 代码链接：https://github.com/teacherpeterpan/Zero-shot-Fact-Verification
+#### Thank you BART!Rewarding Pre-Trained Models Improves Formality Style Transfer
+- 论文链接：https://aclanthology.org/2021.acl-short.62.pdf
+- 代码链接：https://github.com/laihuiyuan/Pre-trained-formality-transfer
+#### Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis
+- 论文链接：https://aclanthology.org/2021.acl-short.63.pdf
+- 代码链接：--
+#### Towards Generative Aspect-Based Sentiment Analysis
+- 论文链接：https://aclanthology.org/2021.acl-short.64.pdf
+- 代码链接：https://github.com/IsakZhang/Generative-ABSA
+#### Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-short.65.pdf
+- 代码链接：https://github.com/xydaytoy/BMI-NMT
+#### Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking
+- 论文链接：https://aclanthology.org/2021.acl-short.66.pdf
+- 代码链接：https://github.com/siat-nlp/TPEM
+#### TIMERS: Document-level Temporal Relation Extraction
+- 论文链接：https://aclanthology.org/2021.acl-short.67.pdf
+- 代码链接：--
+#### Improving Arabic Diacritization with Regularized Decoding and Adversarial Training
+- 论文链接：https://aclanthology.org/2021.acl-short.68.pdf
+- 代码链接：https://github.com/cuhksz-nlp/AD-RDAT
+#### When is Char Better Than Subword: A Systematic Study of Segmentation Algorithms for Neural Machine Translation
+- 论文链接：https://aclanthology.org/2021.acl-short.69.pdf
+- 代码链接：--
+
 
