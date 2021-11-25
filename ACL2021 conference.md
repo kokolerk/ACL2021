@@ -2047,3 +2047,33 @@
 #### Issues with Entailment-based Zero-shot Text Classification
 - 论文链接：https://aclanthology.org/2021.acl-short.99.pdf
 - 代码链接：--
+#### Neural-Symbolic Commonsense Reasoner with Relation Predictors
+- 论文链接：https://aclanthology.org/2021.acl-short.100.pdf
+- 代码链接：https://github.com/farhadmfar/commonsense_reasoner
+#### What Motivates You? Benchmarking Automatic Detection of Basic Needs from Short Posts
+- 论文链接：https://aclanthology.org/2021.acl-short.101.pdf
+- 代码链接：--
+#### Semantic Frame Induction using Masked Word Embeddings and Two-Step Clustering
+- 论文链接：https://aclanthology.org/2021.acl-short.102.pdf
+- 代码链接：--
+#### Lightweight Adapter Tuning for Multilingual Speech Translation
+- 论文链接：https://aclanthology.org/2021.acl-short.103.pdf
+- 代码链接： https://github.com/formiel/fairseq/tree/master/examples/speech_to_text/docs/adapters.md
+#### Parameter Selection: Why We Should Pay More Attention to It
+- 论文链接：https://aclanthology.org/2021.acl-short.104.pdf
+- 代码链接：--
+#### Distinct Label Representations for Few-Shot Text Classification
+- 论文链接：https://aclanthology.org/2021.acl-short.105.pdf
+- 代码链接：https://github.com/21335732529sky/difference_extractor
+#### Learning to Solve NLP Tasks in an Incremental Number of Languages
+- 论文链接：https://aclanthology.org/2021.acl-short.106.pdf
+- 代码链接：--
+#### Hi-Transformer: Hierarchical Interactive Transformer for Efficient and Effective Long Document Modeling
+- 论文链接：https://aclanthology.org/2021.acl-short.107.pdf
+- 代码链接：--
+#### Robust Transfer Learning with Pretrained Language Models through Adapters
+- 论文链接：https://aclanthology.org/2021.acl-short.108.pdf
+- 代码链接： https://github.com/WinnieHAN/Adapter-Robustness.git
+#### Embracing Ambiguity: Shifting the Training Target of NLI Models
+- 论文链接：https://aclanthology.org/2021.acl-short.109.pdf
+- 代码链接：https://github.com/mariomeissner/AmbiNLI
