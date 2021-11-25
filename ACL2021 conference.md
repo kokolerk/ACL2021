@@ -2077,3 +2077,93 @@
 #### Embracing Ambiguity: Shifting the Training Target of NLI Models
 - 论文链接：https://aclanthology.org/2021.acl-short.109.pdf
 - 代码链接：https://github.com/mariomeissner/AmbiNLI
+#### Modeling Discriminative Representations for Out-of-Domain Detection with Supervised Contrastive Learning
+- 论文链接：https://aclanthology.org/2021.acl-short.110.pdf
+- 代码链接：https://github.com/parZival27/supervised-contrastive-learning-for-out-of-domain-detection
+#### Preview, Attend and Review: Schema-Aware Curriculum Learning for Multi-Domain Dialog State Tracking
+- 论文链接：https://aclanthology.org/2021.acl-short.111.pdf
+- 代码链接：--
+#### On the Generation of Medical Dialogs for COVID-19
+- 论文链接：https://aclanthology.org/2021.acl-short.112.pdf
+- 代码链接：https://github.com/UCSD-AI4H/COVID-Dialogue
+#### Constructing Multi-Modal Dialogue Dataset by Replacing Text with Semantically Relevant Images
+- 论文链接：https://aclanthology.org/2021.acl-short.113.pdf
+- 代码链接：https://github.com/shh1574/multi-modal-dialogue-dataset
+#### Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection
+- 论文链接：https://aclanthology.org/2021.acl-short.114.pdf
+- 代码链接：--
+#### BERTTune: Fine-Tuning Neural Machine Translation with BERTScore
+- 论文链接：https://aclanthology.org/2021.acl-short.115.pdf
+- 代码链接：--
+#### Entity Enhancement for Implicit Discourse Relation Classification in the Biomedical Domain
+- 论文链接：https://aclanthology.org/2021.acl-short.116.pdf
+- 代码链接：--
+#### Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction
+- 论文链接：https://aclanthology.org/2021.acl-short.117.pdf
+- 代码链接：--
+#### Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction
+- 论文链接：https://aclanthology.org/2021.acl-short.118.pdf
+- 代码链接：--
+#### Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning
+- 论文链接：https://aclanthology.org/2021.acl-short.119.pdf
+- 代码链接：--
+#### DuReaderrobust: A Chinese Dataset Towards Evaluating Robustness and Generalization of Machine Reading Comprehension in Real-World Applications
+- 论文链接：https://aclanthology.org/2021.acl-short.120.pdf
+- 代码链接：https://github.com/baidu/DuReader
+#### Sequence to General Tree: Knowledge-Guided Geometry Word Problem Solving
+- 论文链接：https://aclanthology.org/2021.acl-short.121.pdf
+- 代码链接：https://github.com/doublebite/Sequence-to-General-tree/
+#### Multi-Scale Progressive Attention Network for Video Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-short.122.pdf
+- 代码链接：--
+#### Efficient Passage Retrieval with Hashing for Open-domain Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-short.123.pdf
+- 代码链接：https://github.com/studio-ousia/bpr
+#### Entity Concept-enhanced Few-shot Relation Extraction
+- 论文链接：https://aclanthology.org/2021.acl-short.124.pdf
+- 代码链接：https://github.com/LittleGuoKe/ConceptFERE
+#### Improving Model Generalization: A Chinese Named Entity Recognition Case Study
+- 论文链接：https://aclanthology.org/2021.acl-short.125.pdf
+- 代码链接：--
+#### Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction
+- 论文链接：https://aclanthology.org/2021.acl-short.126.pdf
+- 代码链接：https://github.com/AndrewZhe/Three-Sentences-Are-All-You-Need
+#### Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders
+- 论文链接：https://aclanthology.org/2021.acl-short.127.pdf
+- 代码链接：https://github.com/Yale-LILY/LectureBank/tree/master/LectureBankCD
+#### Attentive Multiview Text Representation for Differential Diagnosis
+- 论文链接：https://aclanthology.org/2021.acl-short.128.pdf
+- 代码链接：--
+#### MedNLI Is Not Immune: Natural Language Inference Artifacts in the Clinical Domain
+- 论文链接：https://aclanthology.org/2021.acl-short.129.pdf
+- 代码链接：--
+#### Towards a more Robust Evaluation for Conversational Question Answering
+- 论文链接：https://aclanthology.org/2021.acl-short.130.pdf
+- 代码链接：--
+#### VAULT: VAriable Unified Long Text Representation for Machine Reading Comprehension
+- 论文链接：https://aclanthology.org/2021.acl-short.131.pdf
+- 代码链接：--
+#### Avoiding Overlap in Data Augmentation for AMR-to-Text Generation
+- 论文链接：https://aclanthology.org/2021.acl-short.132.pdf
+- 代码链接：https://github.com/jlab-nlp/amr-clean
+#### Weakly-Supervised Methods for Suicide Risk Assessment: Role of Related Domains
+- 论文链接：https://aclanthology.org/2021.acl-short.133.pdf
+- 代码链接：https://github.com/yangalan123/WM-SRA
+#### Can Transformer Models Measure Coherence In Text? Re-Thinking the Shuffle Test
+- 论文链接：https://aclanthology.org/2021.acl-short.134.pdf
+- 代码链接：https://github.com/tingofurro/shuffle_test
+#### SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization
+- 论文链接：https://aclanthology.org/2021.acl-short.135.pdf
+- 代码链接：https://github.com/yixinL7/SimCLS
+#### SaRoCo: Detecting Satire in a Novel Romanian Corpus of News Articles
+- 论文链接：https://aclanthology.org/2021.acl-short.136.pdf
+- 代码链接：https://github.com/MihaelaGaman/SaRoCo
+#### Bringing Structure into Summaries:a Faceted Summarization Dataset for Long Scientific Documents
+- 论文链接：https://aclanthology.org/2021.acl-short.137.pdf
+- 代码链接：https://github.com/hfthair/emerald_crawler
+#### Replicating and Extending “Because Their Treebanks Leak”: Graph Isomorphism, Covariants, and Parser Performance
+- 论文链接：https://aclanthology.org/2021.acl-short.138.pdf
+- 代码链接：--
+#### Don’t Rule Out Monolingual Speakers:A Method For Crowdsourcing Machine Translation Data
+- 论文链接：https://aclanthology.org/2021.acl-short.139.pdf
+- 代码链接：https://nala-cub.github.io/resources
